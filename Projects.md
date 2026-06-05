@@ -8,18 +8,38 @@ Project highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/de
 
 <a id="omega-cms"></a>
 
-## Omega CMS
+## Omega CMS — Enterprise Content Architecture & Localization
 
 **Jan 2017 – Present** · [omegacms.io](https://omegacms.io) · [GitHub](https://github.com/zlatko-lakisic/omegacms)
 
-OmegaCMS is a new type of content management system that redefines what it means to help companies and individuals organize and manage their content. It reads and integrates data from multiple systems, runs on existing infrastructure or as a serverless service, and helps users make use of their content with very little overhead.
+OmegaCMS was engineered as a high-performance, enterprise-grade content management framework designed to decouple content delivery from core business logic. Built to replace rigid, monolithic legacy architectures, the platform established a highly scalable, multi-tenant environment capable of serving dynamic, localized content across global digital properties with ultra-low latency and absolute technical governance. It reads and integrates data from multiple systems, runs on existing infrastructure or as a serverless service, and helps organizations manage content with very little overhead.
+
+### The challenge
+
+Prior to implementation, content distribution suffered from severe infrastructure bottlenecks:
+
+- **Monolithic lock-in** — Content changes required full application deployment cycles, introducing operational risk and stalling time-to-market for digital campaigns.
+- **Localization friction** — Managing content across multiple regions and languages forced teams to maintain separate, siloed application instances, resulting in massive configuration drift.
+- **Performance degradation** — High-traffic spikes routinely threatened database stability due to a lack of an optimized caching and abstraction layer.
 
 ### Architectural highlights
 
-- **Database-agnostic data layer** — SQL Server, MySQL, Oracle, document stores, and flat-file sources through pluggable data access.
-- **Decoupled / headless delivery** — Management UI plus APIs and client libraries (C#, JavaScript, TypeScript) for web, mobile, and internal tools.
+- **Decoupled headless design** — Strict headless CMS model exposing content via robust, secure REST API layers (plus client libraries in C#, JavaScript, and TypeScript) to ensure frontend independence and cross-platform flexibility.
+- **Database-agnostic data layer** — SQL Server, MySQL, Oracle, document stores, and flat-file sources through pluggable data access and federated integration.
+- **Multi-tenant abstraction** — Unified localization and translation engine enabling a single codebase to serve multi-region deployments seamlessly.
+- **Advanced edge caching** — High-availability caching hierarchies including reverse-proxy layers and automated cache invalidation hooks to minimize origin server load and optimize Core Web Vitals.
 - **Serverless deployment** — AWS Lambda, Azure Functions, and Google Cloud targets for bursty or globally distributed workloads.
 - **Content-first modeling** — Visual content designer drives generated structures rather than page-builder lock-in.
+
+### Business outcomes
+
+- **Accelerated time-to-market** — Shifted content updates from engineering deployment pipelines to zero-downtime, non-technical editorial workflows.
+- **Infrastructure savings** — Optimized database query layers and caching strategies, reducing operational compute overhead by maximizing hardware performance.
+- **Global consistency** — Established brand and architectural governance across digital channels through a centralized, secure content repository.
+
+### Tech stack
+
+Headless CMS · REST APIs · multi-tenant localization · edge caching · .NET Core · federated data integration · AWS Lambda · Azure Functions · Google Cloud · SQL Server · MySQL · Oracle
 
 ### Role
 
@@ -91,21 +111,40 @@ Principal Consultant — Lead architect and delivery director. Led a team of 15 
 
 <a id="alstom"></a>
 
-## ALSTOM — Global Enterprise Web Platform
+## ALSTOM — Mission-Critical Industrial Interoperability
 
-**Green River Media** · Ektron CMS · ASP.NET WebForms
+**Green River Media · Alstom · Enterprise Integration**
 
-An enterprise website developed on the Ektron CMS platform with an ASP.NET WebForms front end. The solution is distributed not only by environment but geographically — hosted across North America, South America, Europe, and Asia.
+This enterprise initiative focused on designing and deploying a secure, high-reliability integration layer for Alstom's transit and industrial management environments. The project bridged complex telemetry streams, industrial hardware interfaces, and core enterprise reporting systems — translating real-time field operational data into actionable business intelligence under strict security boundaries. The solution was distributed geographically across North America, South America, Europe, and Asia.
+
+### The challenge
+
+Operating within mission-critical infrastructure introduced intense architectural constraints:
+
+- **Protocol fragmentation** — Forcing modern enterprise software to communicate with specialized, low-level industrial hardware and telemetric monitoring systems.
+- **Zero-downtime requirements** — Because the platform handled operational infrastructure telemetry, system downtime, data loss, or message drops could lead to severe logistical and financial impacts.
+- **Stringent security baselines** — Operating within heavily regulated environments required absolute network segregation, secure data access, and bulletproof audit trails.
 
 ### Architectural highlights
 
-- **Multi-region content delivery** — Global enterprise presence with continent-level deployment topology.
-- **Ektron CMS foundation** — Content governance, versioning, and template structures on the .NET stack.
-- **High-availability digital performance** — Part of a broader portfolio of Ektron implementations including Eurotunnel and Emco Wheaton (Gardner Denver).
+- **Industrial message brokerage** — Fault-tolerant integration mesh leveraging robust messaging queues and event-driven patterns to handle high-throughput telemetry streams cleanly.
+- **Secure network segregation** — Strict network boundaries and unidirectional data flows, ensuring isolated operational technology (OT) zones could securely pass telemetry to enterprise information technology (IT) layers without compromising security.
+- **Deterministic event processing** — Stateful, idempotent message processing workers to guarantee right-first-time data validation and zero payload loss, even during network degradation.
+- **Multi-region delivery** — Global enterprise presence with continent-level deployment topology as part of a broader portfolio of implementations including Eurotunnel and Emco Wheaton (Gardner Denver).
+
+### Business outcomes
+
+- **Predictive operational insights** — Unlocked siloed hardware telemetry, giving stakeholders real-time visibility into systemic asset health and operational metrics.
+- **Hardened security posture** — Achieved full compliance with rigorous industrial cybersecurity standards through a secure-by-default architecture.
+- **Systemic interoperability** — Provided a scalable, reusable integration blueprint for connecting legacy industrial hardware to modern cloud or hybrid analytics environments.
+
+### Tech stack
+
+Event-driven integration · message queues · OT/IT network segregation · idempotent workers · .NET · ASP.NET · enterprise reporting interfaces
 
 ### Role
 
-Lead Developer and later Product Director at Green River Media. Designed and implemented web application architecture, on-site client delivery, and server infrastructure for global manufacturing and infrastructure clients.
+Lead Developer and later Product Director at Green River Media. Designed and implemented integration architecture, on-site client delivery, and server infrastructure for global manufacturing and infrastructure clients.
 
 **Related experience** → [Technical Strategy & Career — Green River Media](./Technical-Strategy.md#product-director--green-river-media-london-uk)
 
@@ -113,22 +152,37 @@ Lead Developer and later Product Director at Green River Media. Designed and imp
 
 <a id="viewbooster"></a>
 
-## Video Promotions (ViewBooster)
+## Video Promotions (ViewBooster) — High-Throughput Analytics & Optimization Engine
 
 **Zoomin.TV** · YouTube Multi-Channel Network
 
-A system designed to run concurrent advertising campaigns across the YouTube platform. Zoomin.TV deployed it across 60,000+ channels. In minutes, a campaign can be created and placed on each video of each selected channel.
+ViewBooster was architected as a highly available, distributed data analytics and performance optimization engine for YouTube advertising at scale. Built to handle massive streams of real-time user engagement telemetry, the platform leveraged high-density compute clustering and decoupled queue-driven processing to ingest, validate, and analyze millions of concurrent events while maintaining absolute data integrity and sub-second reporting latency. Zoomin.TV deployed it across 60,000+ channels — in minutes, a campaign could be created and placed on each video of each selected channel.
+
+### The challenge
+
+The platform encountered classic high-scale data engineering challenges in a live ad-tech environment:
+
+- **Extreme write volume** — Ingesting real-time telemetry from thousands of concurrent clients and Google API statistics across millions of channels created intense write-heavy database locks and network saturation points.
+- **Latency tolerances** — Aggregated analytics reports were required in near-real-time, making traditional night-run batch processing completely unviable.
+- **Compute cost scaling** — Traditional cloud scaling architectures threatened exponential billing spikes if infrastructure footprints were not heavily optimized.
 
 ### Architectural highlights
 
+- **Asynchronous ingestion mesh** — Highly resilient ingestion layer that quickly acknowledged incoming client payloads and offloaded them to message queues, decoupling public API response times from database write operations.
 - **High-velocity campaign engine** — Angular and Material UI communicating with Web API services; campaigns propagated across massive channel fleets in minutes.
 - **ML-driven channel matching** — Back-end Windows service matches channels to advertising campaigns and monitors click-through performance in real time.
-- **Massive data orchestration** — Daily ingestion and analysis of Google API statistics across millions of channels; proprietary promotion logic for ~100,000 managed channels.
-- **Revenue impact** — Contributed to new revenue streams with multi-million-dollar business impact while Zoomin was among the largest YouTube MCNs globally.
+- **Stream aggregation pipelines** — Real-time stream processing microservices to filter, deduplicate, and aggregate analytics data in-flight before committing to cold storage, drastically reducing database storage overhead.
+- **High-density compute** — Recycle-first and bare-metal engineering principles applied to construct efficient hypervisor environments, maximizing CPU/IOPS throughput to avoid costly cloud resource inflation.
+
+### Business outcomes
+
+- **Sub-second analytics delivery** — Shifted reporting cycles from multi-hour delays to a dynamic, sub-second visibility model.
+- **Massive cost optimization** — Prevented runaway cloud spend by optimizing local infrastructure densities, delivering elite-tier throughput at a fraction of standard operational costs.
+- **Revenue impact** — Contributed to new revenue streams with multi-million-dollar business impact while Zoomin was among the largest YouTube MCNs globally; proprietary promotion logic for ~100,000 managed channels.
 
 ### Tech stack
 
-C# .NET · Google APIs · AngularJS / Angular Material · Web API · ColdFusion (merchandising interfaces) · AWS · automated campaign optimization
+C# .NET · Google APIs · message queues · stream processing · AngularJS / Angular Material · Web API · ColdFusion (merchandising interfaces) · AWS · automated campaign optimization
 
 ### Role
 

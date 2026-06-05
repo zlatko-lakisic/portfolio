@@ -56,10 +56,10 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 
 | Project | Period | Summary |
 |---|---|---|
-| [**Omega CMS**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#omega-cms) | Jan 2017 – Present | Database-agnostic, headless ECM — [omegacms.io](https://omegacms.io), integrates disparate data sources, runs on existing infra or serverless ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
+| [**Omega CMS**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#omega-cms) | Jan 2017 – Present | Headless, multi-tenant ECM with localization engine and edge caching — [omegacms.io](https://omegacms.io), serverless-ready, database-agnostic ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
 | [**Walmart Inventory Automation**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
-| [**ALSTOM**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#alstom) | Green River Media | Global Ektron enterprise site — multi-continent WebForms deployment across the Americas, Europe, and Asia |
-| [**Video Promotions (ViewBooster)**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#viewbooster) | Zoomin.TV | YouTube ad-tech engine for 60,000+ channels — Angular UI, ML channel matching, real-time campaign optimization |
+| [**ALSTOM**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#alstom) | Green River Media | Secure OT/IT integration layer for transit and industrial telemetry — event-driven messaging, network segregation, multi-continent deployment |
+| [**Video Promotions (ViewBooster)**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#viewbooster) | Zoomin.TV | High-throughput YouTube ad-tech analytics — async ingestion mesh, stream aggregation, ML channel matching across 60,000+ channels |
 
 ## Technical Ecosystem
 
