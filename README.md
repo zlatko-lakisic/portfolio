@@ -52,14 +52,14 @@ Live project cards — click through for architecture docs, commit history, and 
 
 ## Projects
 
-Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/) — [full project catalog](./Projects.md)
+Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/) — [full project catalog](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html)
 
 | Project | Period | Summary |
 |---|---|---|
-| [**Omega CMS**](./Projects.md#omega-cms) | Jan 2017 – Present | Headless, multi-tenant ECM with localization engine and edge caching — [omegacms.io](https://omegacms.io), serverless-ready, database-agnostic ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
-| [**Walmart Inventory Automation**](./Projects.md#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
-| [**ALSTOM**](./Projects.md#alstom) | Green River Media | Secure OT/IT integration layer for transit and industrial telemetry — event-driven messaging, network segregation, multi-continent deployment |
-| [**Video Promotions (ViewBooster)**](./Projects.md#viewbooster) | Zoomin.TV | High-throughput YouTube ad-tech analytics — async ingestion mesh, stream aggregation, ML channel matching across 60,000+ channels |
+| [**Omega CMS**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html#omega-cms) | Jan 2017 – Present | Headless, multi-tenant ECM with localization engine and edge caching — [omegacms.io](https://omegacms.io), serverless-ready, database-agnostic ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
+| [**Walmart Inventory Automation**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
+| [**ALSTOM**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html#alstom) | Green River Media | Secure OT/IT integration layer for transit and industrial telemetry — event-driven messaging, network segregation, multi-continent deployment |
+| [**Video Promotions (ViewBooster)**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html#viewbooster) | Zoomin.TV | High-throughput YouTube ad-tech analytics — async ingestion mesh, stream aggregation, ML channel matching across 60,000+ channels |
 
 ## Technical Ecosystem
 
@@ -77,7 +77,7 @@ Engineering architecture deep dives — for career history see **[Full CV](./Tec
 
 | Document | Audience | Contents |
 | :-- | :-- | :-- |
-| [**Projects**](./Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
+| [**Projects**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
 | [**Recommendations**](./Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
 | [**Local AI and MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
 | [**Infrastructure and Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
