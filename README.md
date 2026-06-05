@@ -56,10 +56,10 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 
 | Project | Period | Summary |
 |---|---|---|
-| [**Omega CMS**](https://omegacms.io) | Jan 2017 – Present | Database-agnostic, headless ECM — integrates disparate data sources, runs on existing infra or serverless ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
+| [**Omega CMS**](./Projects.md#omega-cms) | Jan 2017 – Present | Database-agnostic, headless ECM — [omegacms.io](https://omegacms.io), integrates disparate data sources, runs on existing infra or serverless ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
 | [**Walmart Inventory Automation**](./Projects.md#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
-| **ALSTOM** | Green River Media | Global Ektron enterprise site — multi-continent WebForms deployment across the Americas, Europe, and Asia |
-| **Video Promotions (ViewBooster)** | Zoomin.TV | YouTube ad-tech engine for 60,000+ channels — Angular UI, ML channel matching, real-time campaign optimization |
+| [**ALSTOM**](./Projects.md#alstom) | Green River Media | Global Ektron enterprise site — multi-continent WebForms deployment across the Americas, Europe, and Asia |
+| [**Video Promotions (ViewBooster)**](./Projects.md#viewbooster) | Zoomin.TV | YouTube ad-tech engine for 60,000+ channels — Angular UI, ML channel matching, real-time campaign optimization |
 
 ## Technical Ecosystem
 

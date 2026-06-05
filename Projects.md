@@ -6,6 +6,8 @@ Project highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/de
 
 ---
 
+<a id="omega-cms"></a>
+
 ## Omega CMS
 
 **Jan 2017 – Present** · [omegacms.io](https://omegacms.io) · [GitHub](https://github.com/zlatko-lakisic/omegacms)
@@ -26,6 +28,8 @@ Co-Founder and Solutions Architect at [Omega Content Management Services](https:
 **Deep dive** → [OmegaCMS on GitHub](https://github.com/zlatko-lakisic/omegacms) · [Technical Strategy & Career](./Technical-Strategy.md#founder--omega-it-llc-new-york-ny)
 
 ---
+
+<a id="walmart-inventory-automation"></a>
 
 ## Walmart Inventory Automation
 
@@ -85,6 +89,8 @@ Principal Consultant — Lead architect and delivery director. Led a team of 15 
 
 ---
 
+<a id="alstom"></a>
+
 ## ALSTOM — Global Enterprise Web Platform
 
 **Green River Media** · Ektron CMS · ASP.NET WebForms
@@ -104,6 +110,8 @@ Lead Developer and later Product Director at Green River Media. Designed and imp
 **Related experience** → [Technical Strategy & Career — Green River Media](./Technical-Strategy.md#product-director--green-river-media-london-uk)
 
 ---
+
+<a id="viewbooster"></a>
 
 ## Video Promotions (ViewBooster)
 
