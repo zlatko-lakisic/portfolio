@@ -72,7 +72,8 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 | Document | Audience | Contents |
 |---|---|---|
 | [**Projects**](./Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
-| [**Technical Strategy & Career**](./Technical-Strategy.md) | CTOs, VPs, hiring managers | Philosophy, full career narrative, education, recommendations |
+| [**Recommendations**](./Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
+| [**Technical Strategy & Career**](./Technical-Strategy.md) | CTOs, VPs, hiring managers | Philosophy, full career narrative, education |
 | [**Local AI & MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
 | [**Infrastructure & Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
 
@@ -84,17 +85,17 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 
 | Recommender | Role | Highlight |
 |---|---|---|
-| **Jon Woodland** | Director, Technology Development & Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
-| **Sam Aria** | Sr. Client Partner, Verizon Business Group | Drove Baxter healthcare private network opportunity and broader connected-hospital wins |
-| **Robin Goldsmith** | Practice Leader, Healthcare & Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
-| **Gert-Jan Vrolijk** | Director IT, Zoomin.TV | Great team leader; adapts quickly to the business side of projects |
-| **Maarten Kruit** | IT Coordinator, Zoomin.TV | Clear communicator, software architect, takes on challenging work |
-| **Matt Happel** | Senior Lead Full Stack Developer, Market America | Gets the job done; innovative with new concepts |
-| **Norman Graves** | Business Development Director, Green River Media | Diligent, knowledgeable, capable software engineer |
-| **Ivan Varbanov** | SRE · DevOps · Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
-| **Haris Šečić** | Software Developer | CEO who codes; realistic estimates plus architecture guidance |
+| [**Jon Woodland**](./Recommendations/jon-woodland.md) | Director, Technology Development & Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
+| [**Sam Aria**](./Recommendations/sam-aria.md) | Sr. Client Partner, Verizon Business Group | Drove Baxter healthcare private network opportunity and broader connected-hospital wins |
+| [**Robin Goldsmith**](./Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare & Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
+| [**Gert-Jan Vrolijk**](./Recommendations/gert-jan-vrolijk.md) | Director IT, Zoomin.TV | Great team leader; adapts quickly to the business side of projects |
+| [**Maarten Kruit**](./Recommendations/maarten-kruit.md) | IT Coordinator, Zoomin.TV | Clear communicator, software architect, takes on challenging work |
+| [**Matt Happel**](./Recommendations/matt-happel.md) | Senior Lead Full Stack Developer, Market America | Gets the job done; innovative with new concepts |
+| [**Norman Graves**](./Recommendations/norman-graves.md) | Business Development Director, Green River Media | Diligent, knowledgeable, capable software engineer |
+| [**Ivan Varbanov**](./Recommendations/ivan-varbanov.md) | SRE · DevOps · Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
+| [**Haris Šečić**](./Recommendations/haris-secic.md) | Software Developer | CEO who codes; realistic estimates plus architecture guidance |
 
-Full recommendation text → [Technical Strategy & Career](./Technical-Strategy.md#recommendations)
+[All recommendations →](./Recommendations/README.md)
 
 ## About This Repository
 

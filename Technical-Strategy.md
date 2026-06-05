@@ -131,49 +131,21 @@ Logistics and transport · aviation · financial services · sports and entertai
 
 ## Recommendations
 
-> **Jon Woodland** — Director, Technology Development & Integration, Verizon Technology & Product Development Group
->
-> *"Zlatko has consistently demonstrated exceptional leadership and a remarkable ability to drive sales outcomes. His strengths lie in his profound understanding of customer challenges and his skill in mapping those challenges to technology outcomes that Verizon can effectively provide. He possesses a straightforward approach, making him comfortable and effective in discussions with both technologists and engineers, as well as C-level executives, within our customer organizations and within Verizon.*
->
-> *Throughout his tenure, Zlatko has proven to be a dedicated team member, leading projects with notable success. His experience in these endeavors, coupled with his expressed desire to move into a leadership role managing a team, makes him an ideal candidate. I am confident that Zlatko will bring the same level of dedication, expertise, and leadership to any future role he undertakes."*
+Nine professional recommendations — each with full text in its own page.
 
-> **Sam Aria** — Sr. Client Partner, Verizon Business Group
->
-> *"Zlatko has been an invaluable asset to our team. His exceptional knowledge was instrumental in advancing a significant opportunity with Baxter Healthcare, helping to secure our first private network sale with Baxter. Zlatko championed demonstration of our Private Network at a health conference earlier this year, which was pivotal in helping Baxter understand the value of our technology.*
->
-> *Furthermore, Zlatko's impact has extended beyond a single account. He has been a key driver in connecting several other healthcare organizations with cutting-edge wireless technologies to enable truly connected hospital care. His ability to translate complex technical concepts into tangible benefits for our clients has been a critical factor in our success.*
->
-> *Zlatko possesses a rare combination of in-depth technical skill and a strategic mindset. He is a collaborative team player who is always willing to share his knowledge and mentor others. I am confident that his expertise in private networks and his passion for innovation will make him a tremendous asset to your organization."*
+| Recommender | Role |
+|---|---|
+| [Jon Woodland](./Recommendations/jon-woodland.md) | Director, Technology Development & Integration, Verizon |
+| [Sam Aria](./Recommendations/sam-aria.md) | Sr. Client Partner, Verizon Business Group |
+| [Robin Goldsmith](./Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare & Life Sciences, Verizon Business |
+| [Gert-Jan Vrolijk](./Recommendations/gert-jan-vrolijk.md) | Director IT, Zoomin.TV |
+| [Maarten Kruit](./Recommendations/maarten-kruit.md) | IT Coordinator, Zoomin.TV |
+| [Matt Happel](./Recommendations/matt-happel.md) | Senior Lead Full Stack Developer, Market America |
+| [Norman Graves](./Recommendations/norman-graves.md) | Business Development Director, Green River Media |
+| [Ivan Varbanov](./Recommendations/ivan-varbanov.md) | SRE · DevOps · Cloud Infrastructure |
+| [Haris Šečić](./Recommendations/haris-secic.md) | Software Developer |
 
-> **Robin Goldsmith** — Practice Leader, Healthcare & Life Sciences, Verizon Business
->
-> *"I worked with Zlatko for the last several years at Verizon and endorse him highly. He quickly became a go-to resource for several critical projects that needed help. He has a great sense of curiosity coupled with a deep technical understanding. This combination along with a strong work ethic makes him a unicorn these days. Zlatko was always willing to do what was needed to move projects along and not above any task put in front of him.*
->
-> *It has been wonderful to see him push himself out of his comfort zone by taking on additional responsibilities and presenting in front of a wide array of customers. He made the most out of all the opportunities put in front of him and has an entrepreneurial mindset when it comes to working when there is no playbook. He would be a valuable asset to any company."*
-
-> **Gert-Jan Vrolijk** — Director IT, Zoomin.TV
->
-> *"I have worked with Zlatko for almost 2 years where he has shown to be a great team leader. As well an excellent technical engineer, who did a wide range of successful developments projects for Zoomin.TV. One of his big qualities is the capability to quickly adapt to the business side of projects and looking for solutions."*
-
-> **Maarten Kruit** — IT Coordinator, Zoomin.TV
->
-> *"I've worked with Zlatko for one year. We have been in daily contact throughout the year. I've gotten to know Zlatko as an able speaker and debater with clear communications to me and the other stakeholders. Zlatko has many talents as a developer and software architect. He has a broad variety in skills and knowledge and put it all on the table. He is not afraid to take on a challenging job, because he can make it work. Zlatko is working very hard and putting in a lot of energy in his projects. Last but not least he is passionate about what he does."*
-
-> **Matt Happel** — Senior Lead Full Stack Developer, Market America, Inc.
->
-> *"Zlatko gets the job done regardless of any obstacles that are in his way. He's very innovative when bringing new concepts and ideas to the table. Dedicated to his work, and it would be a pleasure working with him again!"*
-
-> **Norman Graves** — Business Development Director, Green River Media
->
-> *"I always found Zlatko to be diligent, hard working and knowledgeable, a very capable software engineer."*
-
-> **Ivan Varbanov** — SRE · DevOps · Cloud Infrastructure
->
-> *"Zlatko and I worked on different projects and companies for more than 2 years. He is highly qualified engineer with excellent technical background. His wide variety of expertise was instrumental in the successful delivery of complex projects. Aside from this Zlatko is great person to work with, and an asset for any team. I highly recommend him and would work with him again without hesitation."*
-
-> **Haris Šečić** — Software Developer
->
-> *"Had a great time working for and with Zlatko. It's rare that you come across a CEO who develops software and manages company at the same time and does it well. With 10+ experience as a developer he was able to realistically estimate work needed, while writing new features and giving advices on optimizations, architecture, and bug fixes."*
+[View all recommendations →](./Recommendations/README.md)
 
 ---
 
