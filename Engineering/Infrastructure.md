@@ -93,25 +93,36 @@ Camera inventory, stream paths, and NVR configuration → [My-Futuristic-Home/in
 
 ---
 
-## Networking & Security
+## Network Segregation Strategy
 
-### Subnet strategy
+Enterprise networks fail when everything shares one flat broadcast domain. The home lab applies the same **secure-by-default** principle: trust zones are explicit, ingress is controlled, and compromised IoT devices cannot reach hypervisors, storage, or inference workloads.
 
-| Segment | CIDR | Purpose |
-|---|---|---|
-| Perimeter | 10.0.10.x | Server management, storage, surveillance |
-| House LAN | 192.168.89.x | Wired devices, APs, MQTT |
-| House WLAN | 192.168.90.x | General WiFi clients |
-| IoT WLAN | 172.16.90.x | Isolated IoT WiFi |
+### VLAN design philosophy
 
-### Patterns applied
+| Zone | CIDR | Trust level | What lives here |
+|---|---|---|---|
+| **Perimeter** | 10.0.10.x | Highest | Proxmox hypervisors, NAS, Frigate NVR, Home Assistant server, AI inference hosts |
+| **House LAN** | 192.168.89.x | Medium | Wired endpoints, UniFi controller, Mosquitto MQTT broker, management interfaces |
+| **House WLAN** | 192.168.90.x | Medium-low | Personal devices, media clients, general WiFi |
+| **IoT WLAN** | 172.16.90.x | Lowest | Smart lighting, sensors, consumer IoT — no route to perimeter workloads |
 
-- **VLAN segregation** — Server/NVR traffic does not contend with household operations.
-- **mDNS repeater** — Cross-subnet discovery for media and IoT without flattening security zones.
-- **Traefik edge proxy** — Centralized ingress, TLS termination, certificate distribution.
+**Why this matters for enterprise audiences:** The perimeter zone carries the same class of assets as a corporate DMZ + production subnet — virtualization hosts, model inference, and authoritative data stores. IoT WLAN is treated like a vendor-managed device network or OT segment: useful, untrusted, and firewalled from core compute. That is the same mindset applied when separating Baxter resilience layers from hospital OT, or isolating warehouse telematics from corporate ERP integrations.
+
+### IoT isolation from core compute
+
+Insecure or firmware-stale IoT devices (smart switches, environmental sensors, Zigbee/Z-Wave mesh endpoints) never share a L2 domain with Proxmox clusters or Ollama inference hosts. Cross-subnet automation still works — Home Assistant orchestrates across zones — but **lateral movement from a compromised bulb to an AI model is architecturally blocked**, not merely discouraged.
+
+MikroTik RouterOS enforces inter-VLAN policy at the gateway; the CSS326 10G backbone carries tagged traffic without blurring segments. mDNS repeaters provide discovery for media and IoT where needed, without flattening the security model.
+
+### Routing and edge controls
+
+- **MikroTik hAP ac** — Primary gateway; inter-VLAN firewall rules and NAT boundaries.
+- **MikroTik CSS326** — 10G SFP+ perimeter switching; server and NVR traffic isolated from house LAN contention.
+- **Traefik edge proxy** — Centralized ingress, TLS termination, and certificate distribution for services that must be reached deliberately.
 - **MSN switch watchdogs** — Automated power-cycle logic for resilient edge switching.
+- **UniFi + PoE injectors** — SSID-to-VLAN mapping keeps IoT WLAN clients off house and perimeter segments by default.
 
-Full networking documentation → [My-Futuristic-Home/infrastructure/networking.md](https://github.com/zlatko-lakisic/My-Futuristic-Home/blob/main/infrastructure/networking.md)
+Full VLAN rules, subnet diagrams, and NAS2 bridge configuration → [My-Futuristic-Home/infrastructure/networking.md](https://github.com/zlatko-lakisic/My-Futuristic-Home/blob/main/infrastructure/networking.md)
 
 ---
 

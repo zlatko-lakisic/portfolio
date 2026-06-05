@@ -2,7 +2,7 @@
 
 **Senior Solutions Architect · Engineering Leadership & Technical Strategy**
 
-![Technical Strategy Framework](./assets/strategy-framework.jpg)
+![AI Transformation Strategy — Strategy, Integration, Empowerment, and Governance framework](./assets/strategy-framework.jpg)
 
 A highly strategic technology leader who builds resilient, outcome-first architectures and enterprise solutions. Expert in driving digital transformation, local AI ecosystems, and scalable cloud networks. Passionate about open-source innovation, recycle-first engineering, and bridging the gap between deep technical strategy and business value.
 
@@ -33,13 +33,29 @@ Agentic orchestration, local multi-modal LLM workflows, and Model Context Protoc
 
 Repurposed bare-metal clusters, Proxmox hypervisors, and segmented home-lab environments that mirror production constraints without idle cloud spend.
 
-## Featured Initiatives
+## Featured Repositories
 
-| Initiative | Blueprint | Outcome | Repository |
-|---|---|---|---|
-| **Local AI & agent orchestration** | Model-agnostic CrewAI workflows with MCP tool servers and Ollama backends | Self-hosted multi-modal inferencing without external API dependency | [agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) · [CodeProject.AI plugin](https://github.com/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM) |
-| **Intelligent home infrastructure** | VLAN-segmented network, Frigate NVR, Home Assistant, Proxmox workloads | Local data autonomy with sensor-driven automation and AI detection | [My-Futuristic-Home](https://github.com/zlatko-lakisic/My-Futuristic-Home) |
-| **Enterprise content platform** | Decoupled ECM with pluggable data access and serverless deployment targets | Governed content across fragmented sources without monolithic migration | [OmegaCMS](https://github.com/zlatko-lakisic/omegacms) |
+Live project cards — click through for architecture docs, commit history, and implementation detail.
+
+[![agentic-orchestration](https://gh-card.dev/repos/zlatko-lakisic/agentic-orchestration.svg?fullname=)](https://github.com/zlatko-lakisic/agentic-orchestration)
+[![CodeProjectAI-OmegaOllamaMLLM](https://gh-card.dev/repos/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM.svg?fullname=)](https://github.com/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM)
+
+*Model-agnostic CrewAI orchestration with MCP tool servers and Ollama backends — self-hosted multi-modal inferencing without external API dependency.*
+
+[![My-Futuristic-Home](https://gh-card.dev/repos/zlatko-lakisic/My-Futuristic-Home.svg?fullname=)](https://github.com/zlatko-lakisic/My-Futuristic-Home)
+[![omegacms](https://gh-card.dev/repos/zlatko-lakisic/omegacms.svg?fullname=)](https://github.com/zlatko-lakisic/omegacms)
+
+*VLAN-segmented home lab with Frigate NVR, Home Assistant, and Proxmox workloads · Decoupled ECM platform with pluggable data access and serverless deployment targets.*
+
+## Projects
+
+Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/) — [full project catalog](./Projects.md)
+
+| Project | Period | Summary |
+|---|---|---|
+| [**Omega CMS**](https://omegacms.io) | Jan 2017 – Present | Database-agnostic, headless ECM — integrates disparate data sources, runs on existing infra or serverless ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
+| **ALSTOM** | Green River Media | Global Ektron enterprise site — multi-continent WebForms deployment across the Americas, Europe, and Asia |
+| **Video Promotions (ViewBooster)** | Zoomin.TV | YouTube ad-tech engine for 60,000+ channels — Angular UI, ML channel matching, real-time campaign optimization |
 
 ## Technical Ecosystem
 
@@ -55,6 +71,7 @@ Repurposed bare-metal clusters, Proxmox hypervisors, and segmented home-lab envi
 
 | Document | Audience | Contents |
 |---|---|---|
+| [**Projects**](./Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
 | [**Technical Strategy & Career**](./Technical-Strategy.md) | CTOs, VPs, hiring managers | Philosophy, full career narrative, education, recommendations |
 | [**Local AI & MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
 | [**Infrastructure & Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
@@ -65,11 +82,17 @@ Repurposed bare-metal clusters, Proxmox hypervisors, and segmented home-lab envi
 
 ## Recommendations
 
-> **Jon Woodland** — Director, Technology Development & Integration, Verizon  
-> *"Profound understanding of customer challenges… comfortable and effective with technologists and C-level executives alike."*
-
-> **Sam Aria** — Sr. Client Partner, Verizon Business Group  
-> *"A rare combination of in-depth technical skill and strategic mindset… instrumental across healthcare private network opportunities."*
+| Recommender | Role | Highlight |
+|---|---|---|
+| **Jon Woodland** | Director, Technology Development & Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
+| **Sam Aria** | Sr. Client Partner, Verizon Business Group | Drove Baxter healthcare private network opportunity and broader connected-hospital wins |
+| **Robin Goldsmith** | Practice Leader, Healthcare & Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
+| **Gert-Jan Vrolijk** | Director IT, Zoomin.TV | Great team leader; adapts quickly to the business side of projects |
+| **Maarten Kruit** | IT Coordinator, Zoomin.TV | Clear communicator, software architect, takes on challenging work |
+| **Matt Happel** | Senior Lead Full Stack Developer, Market America | Gets the job done; innovative with new concepts |
+| **Norman Graves** | Business Development Director, Green River Media | Diligent, knowledgeable, capable software engineer |
+| **Ivan Varbanov** | SRE · DevOps · Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
+| **Haris Šečić** | Software Developer | CEO who codes; realistic estimates plus architecture guidance |
 
 Full recommendation text → [Technical Strategy & Career](./Technical-Strategy.md#recommendations)
 

@@ -4,7 +4,9 @@
 
 ## Overview
 
-![MCP Architecture Blueprint](../assets/mcp-architecture.png)
+![MCP Architecture Blueprint — client, server, and data source request flow](../assets/mcp-architecture.png)
+
+*Standard MCP request/response flow: the client translates AI requests into protocol format; servers fetch from external data sources and return structured context.*
 
 This deep-dive covers self-hosted AI systems that extend enterprise integration thinking into edge inference: model-agnostic orchestration, multi-modal vision pipelines, and MCP tool servers that connect agents to real environments (Home Assistant, documentation, search, and custom catalogs).
 
@@ -16,6 +18,21 @@ Primary repositories:
 ---
 
 ## System Architecture
+
+### Conceptual MCP flow
+
+How context moves from data sources through MCP into local execution — the pattern this repository implements end to end.
+
+```mermaid
+graph TD
+    A[Context / Data Sources] -->|Model Context Protocol| B(Agentic Orchestration Layer)
+    B -->|Secure Local Payload| C[Ollama Inference Engine]
+    C -->|Multi-Modal LLMs| D[Localized Execution Sandbox]
+```
+
+### Orchestration blueprint
+
+Detailed component flow across planning, model routing, backends, and MCP tool servers.
 
 ```mermaid
 flowchart LR
