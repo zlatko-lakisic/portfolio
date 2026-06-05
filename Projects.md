@@ -12,6 +12,8 @@ Project highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/de
 
 **Jan 2017 – Present** · [omegacms.io](https://omegacms.io) · [GitHub](https://github.com/zlatko-lakisic/omegacms)
 
+![OmegaCMS — enterprise headless content architecture with multi-tenant localization and edge caching](./assets/omegacms-architecture.png)
+
 OmegaCMS was engineered as a high-performance, enterprise-grade content management framework designed to decouple content delivery from core business logic. Built to replace rigid, monolithic legacy architectures, the platform established a highly scalable, multi-tenant environment capable of serving dynamic, localized content across global digital properties with ultra-low latency and absolute technical governance. It reads and integrates data from multiple systems, runs on existing infrastructure or as a serverless service, and helps organizations manage content with very little overhead.
 
 ### The challenge
@@ -115,6 +117,8 @@ Principal Consultant — Lead architect and delivery director. Led a team of 15 
 
 **Green River Media · Alstom · Enterprise Integration**
 
+![ALSTOM — secure OT/IT integration layer for transit and industrial telemetry](./assets/alstom-project.png)
+
 This enterprise initiative focused on designing and deploying a secure, high-reliability integration layer for Alstom's transit and industrial management environments. The project bridged complex telemetry streams, industrial hardware interfaces, and core enterprise reporting systems — translating real-time field operational data into actionable business intelligence under strict security boundaries. The solution was distributed geographically across North America, South America, Europe, and Asia.
 
 ### The challenge
@@ -155,6 +159,8 @@ Lead Developer and later Product Director at Green River Media. Designed and imp
 ## Video Promotions (ViewBooster) — High-Throughput Analytics & Optimization Engine
 
 **Zoomin.TV** · YouTube Multi-Channel Network
+
+![ViewBooster — high-throughput YouTube ad-tech analytics and optimization engine](./assets/viewbooster-project.png)
 
 ViewBooster was architected as a highly available, distributed data analytics and performance optimization engine for YouTube advertising at scale. Built to handle massive streams of real-time user engagement telemetry, the platform leveraged high-density compute clustering and decoupled queue-driven processing to ingest, validate, and analyze millions of concurrent events while maintaining absolute data integrity and sub-second reporting latency. Zoomin.TV deployed it across 60,000+ channels — in minutes, a campaign could be created and placed on each video of each selected channel.
 
