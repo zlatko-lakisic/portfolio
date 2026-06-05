@@ -134,6 +134,19 @@ Logistics and transport · aviation · financial services · sports and entertai
 
 **B.Sc. in Computer Sciences** — University of Travnik, Bosnia and Herzegovina
 
+## Languages
+
+| Language | Proficiency |
+| :-- | :-- |
+| **Bosnian** | Native or bilingual |
+| **Croatian** | Native or bilingual |
+| **English** | Native or bilingual |
+| **Serbian** | Native or bilingual |
+
+## Causes
+
+Animal Welfare · Civil Rights and Social Action · Education · Health · Human Rights · Science and Technology
+
 ## Technical Skills
 
 | Area | Competencies |
