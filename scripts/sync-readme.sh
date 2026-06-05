@@ -10,6 +10,8 @@ BASE="https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main"
 [[ -f "$INDEX" ]] || { echo "Missing $INDEX" >&2; exit 1; }
 
 content="$(cat "$INDEX")"
+content="$(sed -E "s|]\\(/zlatko-lakisic/Projects\\.html#([^)]+)\\)|]($BASE/Projects.md#\\1)|g" <<< "$content")"
+content="$(sed "s|](/zlatko-lakisic/Projects\\.html)|]($BASE/Projects.md)|g" <<< "$content")"
 content="$(sed "s|](\\./Technical-Strategy\\.md#|]($BASE/Technical-Strategy.md#|g" <<< "$content")"
 content="$(sed "s|](\\./Technical-Strategy\\.md)|]($BASE/Technical-Strategy.md)|g" <<< "$content")"
 content="$(sed "s|](\\./Recommendations/README\\.md)|]($BASE/Recommendations/README.md)|g" <<< "$content")"

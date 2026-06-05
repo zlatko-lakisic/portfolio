@@ -1,6 +1,6 @@
 **Senior Solutions Architect · Engineering Leadership & Technical Strategy**
 
-**[View formatted portfolio on GitHub Pages →](https://zlatko-lakisic.github.io/zlatko-lakisic/)** — architecture gallery, case studies, and deep dives with the Minimal theme.
+**[View formatted portfolio on GitHub Pages →](https://zlatko-lakisic.github.io/zlatko-lakisic/)** — case studies and deep dives with the Minimal theme.
 
 <figure>
 <img src="./assets/strategy-framework.jpg" alt="AI Transformation Strategy framework diagram showing four pillars — Strategy, Integration, Empowerment, and Governance — as the governance model for enterprise AI adoption" />
@@ -52,51 +52,20 @@ Solutions Architect specializing in:
 | **National payments** | Contributed to U.S. electronic check-clearing modernization at The Clearing House — high-throughput, compliance-grade distributed services |
 | **Content platforms** | Co-founded OmegaCMS — headless, multi-tenant ECM accelerating time-to-market for global editorial workflows |
 
-## Architecture Gallery
-
-<div class="architecture-gallery">
-
-<figure>
-<a href="./Projects.md#walmart-inventory-automation"><img src="./assets/walmart-project.png" alt="Walmart enterprise integration mesh" /></a>
-<figcaption><strong>Walmart Inventory Automation</strong> — dual-mode integration bridge across 50+ systems</figcaption>
-</figure>
-
-<figure>
-<a href="./Projects.md#omega-cms"><img src="./assets/omegacms-architecture.png" alt="OmegaCMS headless architecture" /></a>
-<figcaption><strong>OmegaCMS</strong> — headless, multi-tenant content architecture</figcaption>
-</figure>
-
-<figure>
-<a href="./Projects.md#alstom"><img src="./assets/alstom-project.png" alt="ALSTOM OT/IT integration" /></a>
-<figcaption><strong>ALSTOM</strong> — mission-critical industrial interoperability</figcaption>
-</figure>
-
-<figure>
-<a href="./Projects.md#viewbooster"><img src="./assets/viewbooster-project.png" alt="ViewBooster analytics engine" /></a>
-<figcaption><strong>ViewBooster</strong> — high-throughput ad-tech analytics</figcaption>
-</figure>
-
-<figure>
-<a href="./Engineering/Local-AI-MCP.md"><img src="./assets/mcp-architecture.png" alt="MCP request flow architecture" /></a>
-<figcaption><strong>Local AI & MCP</strong> — agent orchestration and tool-server integration</figcaption>
-</figure>
-
-</div>
-
 ## Architecture Case Studies
 
-LinkedIn project highlights with full architecture narratives — each case study covers **business problem · constraints · architecture · tradeoffs · outcome**. [Full catalog →](./Projects.md)
+LinkedIn project highlights with full architecture narratives — each case study covers **business problem · constraints · architecture · tradeoffs · outcome**. [Full catalog →](/zlatko-lakisic/Projects.html)
 
 | Case study | Period | Outcome at a glance |
 |---|---|---|
-| [**Omega CMS**](./Projects.md#omega-cms) | Jan 2017 – Present | Headless, multi-tenant ECM with localization engine and edge caching — [omegacms.io](https://omegacms.io), serverless-ready, database-agnostic ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
-| [**Walmart Inventory Automation**](./Projects.md#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
-| [**ALSTOM**](./Projects.md#alstom) | Green River Media | Secure OT/IT integration layer for transit and industrial telemetry — event-driven messaging, network segregation, multi-continent deployment |
-| [**Video Promotions (ViewBooster)**](./Projects.md#viewbooster) | Zoomin.TV | High-throughput YouTube ad-tech analytics — async ingestion mesh, stream aggregation, ML channel matching across 60,000+ channels |
+| [**Omega CMS**](/zlatko-lakisic/Projects.html#omega-cms) | Jan 2017 – Present | Headless, multi-tenant ECM with localization engine and edge caching — [omegacms.io](https://omegacms.io), serverless-ready, database-agnostic ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
+| [**Walmart Inventory Automation**](/zlatko-lakisic/Projects.html#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
+| [**ALSTOM**](/zlatko-lakisic/Projects.html#alstom) | Green River Media | Secure OT/IT integration layer for transit and industrial telemetry — event-driven messaging, network segregation, multi-continent deployment |
+| [**Video Promotions (ViewBooster)**](/zlatko-lakisic/Projects.html#viewbooster) | Zoomin.TV | High-throughput YouTube ad-tech analytics — async ingestion mesh, stream aggregation, ML channel matching across 60,000+ channels |
 
 ## Open-Source Implementations
 
-Reference code behind the narratives above — explore [case studies](./Projects.md) first, then the repos for implementation detail.
+Reference code behind the narratives above — explore [case studies](/zlatko-lakisic/Projects.html) first, then the repos for implementation detail.
 
 [![agentic-orchestration](https://gh-card.dev/repos/zlatko-lakisic/agentic-orchestration.svg?fullname=)](https://github.com/zlatko-lakisic/agentic-orchestration)
 [![CodeProjectAI-OmegaOllamaMLLM](https://gh-card.dev/repos/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM.svg?fullname=)](https://github.com/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM)
@@ -106,7 +75,7 @@ Reference code behind the narratives above — explore [case studies](./Projects
 [![My-Futuristic-Home](https://gh-card.dev/repos/zlatko-lakisic/My-Futuristic-Home.svg?fullname=)](https://github.com/zlatko-lakisic/My-Futuristic-Home)
 [![omegacms](https://gh-card.dev/repos/zlatko-lakisic/omegacms.svg?fullname=)](https://github.com/zlatko-lakisic/omegacms)
 
-*VLAN-segmented home lab and Proxmox workloads · Decoupled ECM platform — [case study →](./Projects.md#omega-cms)*
+*VLAN-segmented home lab and Proxmox workloads · Decoupled ECM platform — [case study →](/zlatko-lakisic/Projects.html#omega-cms)*
 
 ## Technical Domains
 
@@ -127,7 +96,7 @@ Architecture narratives by specialty — for career history see **[Full CV](./Te
 
 | Document | Audience | Contents |
 | :-- | :-- | :-- |
-| [**Architecture Case Studies**](./Projects.md) | Recruiters, technical peers | Business problem → outcome project catalog with diagrams |
+| [**Architecture Case Studies**](/zlatko-lakisic/Projects.html) | Recruiters, technical peers | Business problem → outcome project catalog with diagrams |
 | [**Healthcare Architecture**](./Healthcare/README.md) | Healthcare IT, life sciences | Connected care, private networks, device connectivity, resilience |
 | [**Identity & Access**](./Identity/README.md) | Security architects, IAM engineers | Enterprise federation, zero-trust segmentation, credential governance |
 | [**Local AI and MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Why MCP matters, enterprise use cases, security, local vs cloud |

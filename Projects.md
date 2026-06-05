@@ -16,9 +16,7 @@ Full catalog from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/
 
 ---
 
-<a id="omega-cms"></a>
-
-## Omega CMS — Enterprise Content Architecture & Localization
+<h2 id="omega-cms">Omega CMS — Enterprise Content Architecture & Localization</h2>
 
 **Jan 2017 – Present** · [omegacms.io](https://omegacms.io) · [GitHub](https://github.com/zlatko-lakisic/omegacms)
 
@@ -61,9 +59,7 @@ Co-Founder and Solutions Architect at [Omega Content Management Services](https:
 
 ---
 
-<a id="walmart-inventory-automation"></a>
-
-## Walmart Inventory Automation
+<h2 id="walmart-inventory-automation">Walmart Inventory Automation</h2>
 
 **Genpact · Walmart & Sam's Club · 11/2018 – 11/2019**
 
@@ -121,9 +117,7 @@ Principal Consultant — Lead architect and delivery director. Led a team of 15 
 
 ---
 
-<a id="alstom"></a>
-
-## ALSTOM — Mission-Critical Industrial Interoperability
+<h2 id="alstom">ALSTOM — Mission-Critical Industrial Interoperability</h2>
 
 **Green River Media · Alstom · Enterprise Integration**
 
@@ -164,9 +158,7 @@ Lead Developer and later Product Director at Green River Media. Designed and imp
 
 ---
 
-<a id="viewbooster"></a>
-
-## Video Promotions (ViewBooster) — High-Throughput Analytics & Optimization Engine
+<h2 id="viewbooster">Video Promotions (ViewBooster) — High-Throughput Analytics & Optimization Engine</h2>
 
 **Zoomin.TV** · YouTube Multi-Channel Network
 

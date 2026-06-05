@@ -1,7 +1,7 @@
 ﻿<!-- AUTO-GENERATED from index.md. Do not edit README.md directly. Run: scripts/sync-readme.ps1 -->
 **Senior Solutions Architect · Engineering Leadership & Technical Strategy**
 
-**[View formatted portfolio on GitHub Pages →](https://zlatko-lakisic.github.io/zlatko-lakisic/)** — architecture gallery, case studies, and deep dives with the Minimal theme.
+**[View formatted portfolio on GitHub Pages →](https://zlatko-lakisic.github.io/zlatko-lakisic/)** — case studies and deep dives with the Minimal theme.
 
 <figure>
 <img src="./assets/strategy-framework.jpg" alt="AI Transformation Strategy framework diagram showing four pillars — Strategy, Integration, Empowerment, and Governance — as the governance model for enterprise AI adoption" />
@@ -52,37 +52,6 @@ Solutions Architect specializing in:
 | **Media & ad-tech scale** | Architected ViewBooster for 60,000+ YouTube channels — sub-second analytics and multi-million-dollar revenue impact at a top global MCN |
 | **National payments** | Contributed to U.S. electronic check-clearing modernization at The Clearing House — high-throughput, compliance-grade distributed services |
 | **Content platforms** | Co-founded OmegaCMS — headless, multi-tenant ECM accelerating time-to-market for global editorial workflows |
-
-## Architecture Gallery
-
-<div class="architecture-gallery">
-
-<figure>
-<a href="https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#walmart-inventory-automation"><img src="./assets/walmart-project.png" alt="Walmart enterprise integration mesh" /></a>
-<figcaption><strong>Walmart Inventory Automation</strong> — dual-mode integration bridge across 50+ systems</figcaption>
-</figure>
-
-<figure>
-<a href="https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#omega-cms"><img src="./assets/omegacms-architecture.png" alt="OmegaCMS headless architecture" /></a>
-<figcaption><strong>OmegaCMS</strong> — headless, multi-tenant content architecture</figcaption>
-</figure>
-
-<figure>
-<a href="https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#alstom"><img src="./assets/alstom-project.png" alt="ALSTOM OT/IT integration" /></a>
-<figcaption><strong>ALSTOM</strong> — mission-critical industrial interoperability</figcaption>
-</figure>
-
-<figure>
-<a href="https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#viewbooster"><img src="./assets/viewbooster-project.png" alt="ViewBooster analytics engine" /></a>
-<figcaption><strong>ViewBooster</strong> — high-throughput ad-tech analytics</figcaption>
-</figure>
-
-<figure>
-<a href="https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Engineering/Local-AI-MCP.md"><img src="./assets/mcp-architecture.png" alt="MCP request flow architecture" /></a>
-<figcaption><strong>Local AI & MCP</strong> — agent orchestration and tool-server integration</figcaption>
-</figure>
-
-</div>
 
 ## Architecture Case Studies
 

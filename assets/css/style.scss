@@ -86,27 +86,8 @@ section > figure:first-of-type figcaption {
   margin-right: auto;
 }
 
-.architecture-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-  gap: 1.25rem;
-  margin: 1.5rem 0 2rem;
-}
-
-.architecture-gallery figure {
-  margin: 0;
-}
-
-.architecture-gallery img {
-  border: 1px solid #e1e4e8;
-  border-radius: 6px;
-}
-
-.architecture-gallery figcaption {
-  font-size: 0.875rem;
-  color: #444;
-  margin-top: 0.5rem;
-  line-height: 1.4;
+section h2[id] {
+  scroll-margin-top: 2rem;
 }
 
 blockquote {

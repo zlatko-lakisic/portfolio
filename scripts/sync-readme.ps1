@@ -14,6 +14,8 @@ $content = Get-Content $indexPath -Raw -Encoding UTF8
 
 # Relative markdown links -> GitHub blob URLs (order matters: anchors before bare paths)
 $replacements = @(
+    @{ Pattern = '\]\(/zlatko-lakisic/Projects\.html#([^)]+)\)'; Replacement = "]($base/Projects.md#`$1)" }
+    @{ Pattern = '\]\(/zlatko-lakisic/Projects\.html\)'; Replacement = "]($base/Projects.md)" }
     @{ Pattern = '\]\(\./Technical-Strategy\.md#'; Replacement = "]($base/Technical-Strategy.md#" }
     @{ Pattern = '\]\(\./Technical-Strategy\.md\)'; Replacement = "]($base/Technical-Strategy.md)" }
     @{ Pattern = '\]\(\./Recommendations/README\.md\)'; Replacement = "]($base/Recommendations/README.md)" }
