@@ -109,7 +109,7 @@ Engineering architecture deep dives — for career history see **[Full CV](./Tec
 
 Executive dashboard for my professional portfolio. Detailed narratives live in linked markdown files.
 
-**GitHub Pages site:** [zlatko-lakisic.github.io/portfolio](https://zlatko-lakisic.github.io/portfolio/) — styled with the Jekyll [Minimal theme](https://github.com/pages-themes/minimal) per [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
+**GitHub Pages site:** [zlatko-lakisic.github.io/zlatko-lakisic](https://zlatko-lakisic.github.io/zlatko-lakisic/) — styled with the Jekyll [Minimal theme](https://github.com/pages-themes/minimal) per [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
 
 ## License
 
