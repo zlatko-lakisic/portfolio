@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>Zlatko Lakisic</strong><br />
-  Senior Solutions Architect · New York City, NY<br />
+  Engineering Leader · New York City, NY<br />
   <a href="mailto:zlatko.lakisic@gmail.com">zlatko.lakisic@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/zlatko-lakisic/">LinkedIn</a> ·
   <a href="https://github.com/zlatko-lakisic">GitHub</a>

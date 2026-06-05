@@ -1,5 +1,5 @@
 ﻿<!-- AUTO-GENERATED from index.md. Do not edit README.md directly. Run: scripts/sync-readme.ps1 -->
-**Senior Solutions Architect · Engineering Leadership & Technical Strategy**
+**Engineering Leader · Technical Strategy & Customer-Centric Solutions**
 
 **[View formatted portfolio on GitHub Pages →](https://zlatko-lakisic.github.io/zlatko-lakisic/)** — case studies and deep dives with the Minimal theme.
 
@@ -20,7 +20,7 @@
 
 ## What I Solve
 
-Solutions Architect specializing in:
+Engineering leader specializing in:
 
 - **Enterprise integration & modernization** — fragmented legacy estates, API bridges, and P&L-grade data pipelines
 - **Healthcare & connected care** — private networks, device connectivity, and mission-critical resilience for health systems
