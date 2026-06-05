@@ -2,23 +2,24 @@
 
 **Senior Solutions Architect · Engineering Leadership & Technical Strategy**
 
-![AI Transformation Strategy — Strategy, Integration, Empowerment, and Governance framework](./assets/strategy-framework.jpg)
+![AI Transformation Strategy — Strategy, Integration, Empowerment, and Governance framework](https://raw.githubusercontent.com/zlatko-lakisic/portfolio/main/assets/strategy-framework.jpg)
 
 A highly strategic technology leader who builds resilient, outcome-first architectures and enterprise solutions. Expert in driving digital transformation, local AI ecosystems, and scalable cloud networks. Passionate about open-source innovation, recycle-first engineering, and bridging the gap between deep technical strategy and business value.
 
 15+ years as a trusted advisor to C-suite stakeholders — from Verizon enterprise integration and healthcare private networks to national payment infrastructure and global retail automation.
 
 <p align="center">
-  <a href="./Technical-Strategy.md"><strong>Full CV — Experience, Education, and Technical Strategy →</strong></a>
+  <a href="https://github.com/zlatko-lakisic/portfolio/blob/main/Technical-Strategy.md"><strong>Full CV — Experience, Education, and Technical Strategy →</strong></a>
 </p>
 
-Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC · 15+ years · [Recommendations](./Recommendations/README.md)
+Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC · 15+ years · [Recommendations](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/README.md)
 
 ## Connect
 
 | | |
 |---|---|
-| **CV / Resume** | [**Technical Strategy and Career**](./Technical-Strategy.md) — full experience, education, skills, philosophy |
+| **CV / Resume** | [**Technical Strategy and Career**](https://github.com/zlatko-lakisic/portfolio/blob/main/Technical-Strategy.md) — full experience, education, skills, philosophy |
+| **Portfolio** | [**github.com/zlatko-lakisic/portfolio**](https://github.com/zlatko-lakisic/portfolio) — full documentation repository |
 | **Email** | [zlatko.lakisic@gmail.com](mailto:zlatko.lakisic@gmail.com) |
 | **Phone** | 336-682-9871 |
 | **LinkedIn** | [linkedin.com/in/zlatko-lakisic](https://www.linkedin.com/in/zlatko-lakisic/) |
@@ -56,7 +57,7 @@ Live project cards — click through for architecture docs, commit history, and 
 
 ## Projects
 
-Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/) — [full project catalog](./Projects.md)
+Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/) — [full project catalog](https://github.com/zlatko-lakisic/portfolio/blob/main/Projects.md)
 
 | Project | Period | Summary |
 |---|---|---|
@@ -76,14 +77,14 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 
 ## Deep Dives
 
-Engineering architecture deep dives — for career history see **[Full CV](./Technical-Strategy.md)** above.
+Engineering architecture deep dives — for career history see **[Full CV](https://github.com/zlatko-lakisic/portfolio/blob/main/Technical-Strategy.md)** above.
 
 | Document | Audience | Contents |
 | :-- | :-- | :-- |
-| [**Projects**](./Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
-| [**Recommendations**](./Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
-| [**Local AI and MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
-| [**Infrastructure and Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
+| [**Projects**](https://github.com/zlatko-lakisic/portfolio/blob/main/Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
+| [**Recommendations**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
+| [**Local AI and MCP Architecture**](https://github.com/zlatko-lakisic/portfolio/blob/main/Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
+| [**Infrastructure and Home Lab**](https://github.com/zlatko-lakisic/portfolio/blob/main/Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
 
 ## Philosophy
 
@@ -93,22 +94,22 @@ Engineering architecture deep dives — for career history see **[Full CV](./Tec
 
 | Recommender | Role | Highlight |
 | :-- | :-- | :-- |
-| [**Jon Woodland**](./Recommendations/jon-woodland.md) | Director, Technology Development and Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
-| [**Sam Aria**](./Recommendations/sam-aria.md) | Sr. Client Partner, Verizon Business Group | Drove Baxter healthcare private network opportunity and broader connected-hospital wins |
-| [**Robin Goldsmith**](./Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare and Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
-| [**Gert-Jan Vrolijk**](./Recommendations/gert-jan-vrolijk.md) | Director IT, Zoomin.TV | Great team leader; adapts quickly to the business side of projects |
-| [**Maarten Kruit**](./Recommendations/maarten-kruit.md) | IT Coordinator, Zoomin.TV | Clear communicator, software architect, takes on challenging work |
-| [**Matt Happel**](./Recommendations/matt-happel.md) | Senior Lead Full Stack Developer, Market America | Gets the job done; innovative with new concepts |
-| [**Norman Graves**](./Recommendations/norman-graves.md) | Business Development Director, Green River Media | Diligent, knowledgeable, capable software engineer |
-| [**Ivan Varbanov**](./Recommendations/ivan-varbanov.md) | SRE, DevOps, Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
-| [**Haris Šečić**](./Recommendations/haris-secic.md) | Software Developer | CEO who codes; realistic estimates plus architecture guidance |
+| [**Jon Woodland**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/jon-woodland.md) | Director, Technology Development and Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
+| [**Sam Aria**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/sam-aria.md) | Sr. Client Partner, Verizon Business Group | Drove Baxter healthcare private network opportunity and broader connected-hospital wins |
+| [**Robin Goldsmith**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare and Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
+| [**Gert-Jan Vrolijk**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/gert-jan-vrolijk.md) | Director IT, Zoomin.TV | Great team leader; adapts quickly to the business side of projects |
+| [**Maarten Kruit**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/maarten-kruit.md) | IT Coordinator, Zoomin.TV | Clear communicator, software architect, takes on challenging work |
+| [**Matt Happel**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/matt-happel.md) | Senior Lead Full Stack Developer, Market America | Gets the job done; innovative with new concepts |
+| [**Norman Graves**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/norman-graves.md) | Business Development Director, Green River Media | Diligent, knowledgeable, capable software engineer |
+| [**Ivan Varbanov**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/ivan-varbanov.md) | SRE, DevOps, Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
+| [**Haris Šečić**](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/haris-secic.md) | Software Developer | CEO who codes; realistic estimates plus architecture guidance |
 
-[All recommendations →](./Recommendations/README.md)
+[All recommendations →](https://github.com/zlatko-lakisic/portfolio/blob/main/Recommendations/README.md)
 
-## About This Repository
+## About This Profile
 
-Executive dashboard for my professional portfolio. Detailed narratives live in linked markdown files; this repo will also serve as the source for a portfolio site as it evolves.
+GitHub profile README — executive dashboard mirroring [zlatko-lakisic/portfolio](https://github.com/zlatko-lakisic/portfolio). All deep-dive documentation, CV, engineering blueprints, and recommendations live in the portfolio repository.
 
 ## License
 
-Copyright © 2026 Zlatko Lakisic. All Rights Reserved. See [LICENSE](LICENSE). Linked project repositories remain under their own licenses.
+Copyright © 2026 Zlatko Lakisic. All Rights Reserved. See [LICENSE](https://github.com/zlatko-lakisic/portfolio/blob/main/LICENSE). Linked project repositories remain under their own licenses.
