@@ -1,5 +1,3 @@
-# Zlatko Lakisic
-
 **Senior Solutions Architect · Engineering Leadership & Technical Strategy**
 
 ![AI Transformation Strategy — Strategy, Integration, Empowerment, and Governance framework](./assets/strategy-framework.jpg)
@@ -8,9 +6,7 @@ A highly strategic technology leader who builds resilient, outcome-first archite
 
 15+ years as a trusted advisor to C-suite stakeholders — from Verizon enterprise integration and healthcare private networks to national payment infrastructure and global retail automation.
 
-<p align="center">
-  <a href="./Technical-Strategy.md"><strong>Full CV — Experience, Education, and Technical Strategy →</strong></a>
-</p>
+[**Full CV — Experience, Education, and Technical Strategy →**](./Technical-Strategy.md)
 
 Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC · 15+ years · [Recommendations](./Recommendations/README.md)
 
