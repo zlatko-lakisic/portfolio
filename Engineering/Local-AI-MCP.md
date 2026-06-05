@@ -4,6 +4,8 @@
 
 ## Overview
 
+![MCP Architecture Blueprint](../assets/mcp-architecture.png)
+
 This deep-dive covers self-hosted AI systems that extend enterprise integration thinking into edge inference: model-agnostic orchestration, multi-modal vision pipelines, and MCP tool servers that connect agents to real environments (Home Assistant, documentation, search, and custom catalogs).
 
 Primary repositories:

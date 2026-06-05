@@ -2,6 +2,8 @@
 
 **Senior Solutions Architect · Engineering Leadership & Technical Strategy**
 
+![Technical Strategy Framework](./assets/strategy-framework.jpg)
+
 A highly strategic technology leader who builds resilient, outcome-first architectures and enterprise solutions. Expert in driving digital transformation, local AI ecosystems, and scalable cloud networks. Passionate about open-source innovation, recycle-first engineering, and bridging the gap between deep technical strategy and business value.
 
 15+ years as a trusted advisor to C-suite stakeholders — from Verizon enterprise integration and healthcare private networks to national payment infrastructure and global retail automation.
