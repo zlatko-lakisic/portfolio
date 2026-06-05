@@ -2,6 +2,20 @@
 
 **Full CV** · [← Main Portfolio](./README.md)
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/255580783?s=400&u=861eba2740c4b7c3e7f5902ddd2fb75f016dfec2&v=4" alt="Zlatko Lakisic" width="200" />
+</p>
+
+<p align="center">
+  <strong>Zlatko Lakisic</strong><br />
+  Senior Solutions Architect · New York City, NY<br />
+  <a href="mailto:zlatko.lakisic@gmail.com">zlatko.lakisic@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/zlatko-lakisic/">LinkedIn</a> ·
+  <a href="https://github.com/zlatko-lakisic">GitHub</a>
+</p>
+
+---
+
 ## Engineering Philosophy
 
 ### Outcome-first delivery
