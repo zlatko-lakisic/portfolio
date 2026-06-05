@@ -1,14 +1,33 @@
 **Senior Solutions Architect · Engineering Leadership & Technical Strategy**
 
-![AI Transformation Strategy — Strategy, Integration, Empowerment, and Governance framework](./assets/strategy-framework.jpg)
+**[View formatted portfolio on GitHub Pages →](https://zlatko-lakisic.github.io/zlatko-lakisic/)** — architecture gallery, case studies, and deep dives with the Minimal theme.
 
-A highly strategic technology leader who builds resilient, outcome-first architectures and enterprise solutions. Expert in driving digital transformation, local AI ecosystems, and scalable cloud networks. Passionate about open-source innovation, recycle-first engineering, and bridging the gap between deep technical strategy and business value.
+<figure>
+<img src="./assets/strategy-framework.jpg" alt="AI Transformation Strategy framework diagram showing four pillars — Strategy, Integration, Empowerment, and Governance — as the governance model for enterprise AI adoption" />
+<figcaption><strong>AI Transformation Strategy framework</strong> — four pillars for enterprise AI adoption: <em>Strategy</em> (outcome-first roadmaps aligned to business metrics), <em>Integration</em> (API and MCP tool boundaries), <em>Empowerment</em> (self-hosted inference and agent workflows), and <em>Governance</em> (credential-scoped catalogs, segmented trust, and operational sustainability).</figcaption>
+</figure>
 
-15+ years as a trusted advisor to C-suite stakeholders — from Verizon enterprise integration and healthcare private networks to national payment infrastructure and global retail automation.
+## At a Glance
 
-[**Full CV — Experience, Education, and Technical Strategy →**](./Technical-Strategy.md)
+| Metric | Delivery |
+| :-- | :-- |
+| **Scale** | 50+ systems unified across **5,500** Walmart and Sam's Club locations |
+| **Reach** | **60,000+** YouTube channels on ViewBooster; millions of channels ingested daily at Zoomin.TV |
+| **Healthcare** | Multi-million-dollar private network engagements — Baxter, Cleveland Clinic, Mayo, Kaiser |
+| **AI influence** | **95%**-accurate ML model feedback loop driving Verizon product roadmap |
+| **Experience** | **15+ years** — Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC |
 
-Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC · 15+ years · [Recommendations](./Recommendations/README.md)
+## What I Solve
+
+Solutions Architect specializing in:
+
+- **Enterprise integration & modernization** — fragmented legacy estates, API bridges, and P&L-grade data pipelines
+- **Healthcare & connected care** — private networks, device connectivity, and mission-critical resilience for health systems
+- **Identity & access architecture** — SSO federation (SAML/OAuth), segmented trust zones, and credential-scoped service catalogs
+- **AI & MCP platforms** — agent orchestration, local inference, and Model Context Protocol tool layers for enterprise-grade automation
+- **Distributed systems at scale** — inventory automation across thousands of sites, national payment infrastructure, and high-throughput analytics
+
+[**Full CV — Experience, Education, and Technical Strategy →**](./Technical-Strategy.md) · [Recommendations](./Recommendations/README.md)
 
 ## Connect
 
@@ -22,71 +41,106 @@ Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC · 15+ yea
 | **ORCID** | [0009-0004-8820-8881](https://orcid.org/0009-0004-8820-8881) |
 | **Location** | New York City, NY |
 
-## Core Pillars
+## Selected Outcomes
 
-### Enterprise Architecture & Digital Transformation
+| Domain | Business outcome |
+| :-- | :-- |
+| **Retail supply chain** | Unified 50+ legacy and modern systems across 5,500 Walmart and Sam's Club locations — eliminated 3×–4× inventory rework cycles tied to corporate P&L |
+| **Healthcare connectivity** | Drove Baxter private-network adoption and multi-million-dollar health-system engagements — private wireless, FWA, and satellite resilience for mission-critical care |
+| **Enterprise AI influence** | Managed customer feedback loop for a 95%-accurate ML model at Verizon — translated field insights into product roadmap priorities |
+| **Media & ad-tech scale** | Architected ViewBooster for 60,000+ YouTube channels — sub-second analytics and multi-million-dollar revenue impact at a top global MCN |
+| **National payments** | Contributed to U.S. electronic check-clearing modernization at The Clearing House — high-throughput, compliance-grade distributed services |
+| **Content platforms** | Co-founded OmegaCMS — headless, multi-tenant ECM accelerating time-to-market for global editorial workflows |
 
-Outcome-first roadmaps aligned to business metrics. Legacy modernization, API integration design, technical discovery, and governance that scales across global enterprise accounts.
+## Architecture Gallery
 
-### Intelligent Infrastructure & Edge AI
+<div class="architecture-gallery">
 
-Agentic orchestration, local multi-modal LLM workflows, and Model Context Protocol (MCP) tool layers — extending enterprise integration patterns into self-hosted, low-latency AI.
+<figure>
+<a href="./Projects.md#walmart-inventory-automation"><img src="./assets/walmart-project.png" alt="Walmart enterprise integration mesh" /></a>
+<figcaption><strong>Walmart Inventory Automation</strong> — dual-mode integration bridge across 50+ systems</figcaption>
+</figure>
 
-### Recycle-First Engineering
+<figure>
+<a href="./Projects.md#omega-cms"><img src="./assets/omegacms-architecture.png" alt="OmegaCMS headless architecture" /></a>
+<figcaption><strong>OmegaCMS</strong> — headless, multi-tenant content architecture</figcaption>
+</figure>
 
-Repurposed bare-metal clusters, Proxmox hypervisors, and segmented home-lab environments that mirror production constraints without idle cloud spend.
+<figure>
+<a href="./Projects.md#alstom"><img src="./assets/alstom-project.png" alt="ALSTOM OT/IT integration" /></a>
+<figcaption><strong>ALSTOM</strong> — mission-critical industrial interoperability</figcaption>
+</figure>
 
-## Featured Repositories
+<figure>
+<a href="./Projects.md#viewbooster"><img src="./assets/viewbooster-project.png" alt="ViewBooster analytics engine" /></a>
+<figcaption><strong>ViewBooster</strong> — high-throughput ad-tech analytics</figcaption>
+</figure>
 
-Live project cards — click through for architecture docs, commit history, and implementation detail.
+<figure>
+<a href="./Engineering/Local-AI-MCP.md"><img src="./assets/mcp-architecture.png" alt="MCP request flow architecture" /></a>
+<figcaption><strong>Local AI & MCP</strong> — agent orchestration and tool-server integration</figcaption>
+</figure>
 
-[![agentic-orchestration](https://gh-card.dev/repos/zlatko-lakisic/agentic-orchestration.svg?fullname=)](https://github.com/zlatko-lakisic/agentic-orchestration)
-[![CodeProjectAI-OmegaOllamaMLLM](https://gh-card.dev/repos/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM.svg?fullname=)](https://github.com/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM)
+</div>
 
-*Model-agnostic CrewAI orchestration with MCP tool servers and Ollama backends — self-hosted multi-modal inferencing without external API dependency.*
+## Architecture Case Studies
 
-[![My-Futuristic-Home](https://gh-card.dev/repos/zlatko-lakisic/My-Futuristic-Home.svg?fullname=)](https://github.com/zlatko-lakisic/My-Futuristic-Home)
-[![omegacms](https://gh-card.dev/repos/zlatko-lakisic/omegacms.svg?fullname=)](https://github.com/zlatko-lakisic/omegacms)
+LinkedIn project highlights with full architecture narratives — each case study covers **business problem · constraints · architecture · tradeoffs · outcome**. [Full catalog →](./Projects.md)
 
-*VLAN-segmented home lab with Frigate NVR, Home Assistant, and Proxmox workloads · Decoupled ECM platform with pluggable data access and serverless deployment targets.*
-
-## Projects
-
-Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/) — [full project catalog](./Projects.md)
-
-| Project | Period | Summary |
+| Case study | Period | Outcome at a glance |
 |---|---|---|
 | [**Omega CMS**](./Projects.md#omega-cms) | Jan 2017 – Present | Headless, multi-tenant ECM with localization engine and edge caching — [omegacms.io](https://omegacms.io), serverless-ready, database-agnostic ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
 | [**Walmart Inventory Automation**](./Projects.md#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
 | [**ALSTOM**](./Projects.md#alstom) | Green River Media | Secure OT/IT integration layer for transit and industrial telemetry — event-driven messaging, network segregation, multi-continent deployment |
 | [**Video Promotions (ViewBooster)**](./Projects.md#viewbooster) | Zoomin.TV | High-throughput YouTube ad-tech analytics — async ingestion mesh, stream aggregation, ML channel matching across 60,000+ channels |
 
-## Technical Ecosystem
+## Open-Source Implementations
 
-| Domain | Technologies and Frameworks |
+Reference code behind the narratives above — explore [case studies](./Projects.md) first, then the repos for implementation detail.
+
+[![agentic-orchestration](https://gh-card.dev/repos/zlatko-lakisic/agentic-orchestration.svg?fullname=)](https://github.com/zlatko-lakisic/agentic-orchestration)
+[![CodeProjectAI-OmegaOllamaMLLM](https://gh-card.dev/repos/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM.svg?fullname=)](https://github.com/zlatko-lakisic/CodeProjectAI-OmegaOllamaMLLM)
+
+*Model-agnostic CrewAI orchestration with MCP tool servers and Ollama backends — [architecture deep-dive →](./Engineering/Local-AI-MCP.md)*
+
+[![My-Futuristic-Home](https://gh-card.dev/repos/zlatko-lakisic/My-Futuristic-Home.svg?fullname=)](https://github.com/zlatko-lakisic/My-Futuristic-Home)
+[![omegacms](https://gh-card.dev/repos/zlatko-lakisic/omegacms.svg?fullname=)](https://github.com/zlatko-lakisic/omegacms)
+
+*VLAN-segmented home lab and Proxmox workloads · Decoupled ECM platform — [case study →](./Projects.md#omega-cms)*
+
+## Technical Domains
+
+Capabilities grounded in delivered outcomes — not tool lists for their own sake.
+
+| Domain | Representative delivery |
 | :-- | :-- |
-| **Architecture and Integration** | REST APIs, webhooks, SSO (SAML/OAuth), enterprise discovery, HLSD, .NET |
-| **Cloud and Data** | AWS, Azure, distributed systems, data pipelines, motion/telematics analytics |
-| **AI and Automation** | Ollama, MCP, CrewAI, LiteLLM, Home Assistant, CodeProject.AI, Frigate |
-| **Infrastructure** | Kubernetes, Docker, Proxmox VE, MikroTik RouterOS, Traefik, UniFi |
-| **Methodologies** | Outcome-first delivery, technical governance, recycle-first engineering |
+| **Architecture and Integration** | HLSD and discovery for 50-system retail automation; REST, webhooks, and enterprise API design |
+| **Healthcare and Life Sciences** | Private networks for Baxter, Cleveland Clinic, Mayo, Kaiser — connected care and resilience architecture |
+| **Identity and Security** | SAML/OAuth SSO patterns, segmented VLAN trust zones, credential-scoped MCP and service catalogs |
+| **Cloud and Data** | Event-driven pipelines across 5,500 locations; motion/telematics analytics; national payment workloads |
+| **AI and Automation** | MCP tool layers, CrewAI orchestration, HITL document-matching ML, local Ollama inference |
+| **Infrastructure** | Proxmox bare-metal density, Kubernetes sandboxes, Proxmox/MikroTik segmented lab mirroring production constraints |
 
 ## Deep Dives
 
-Engineering architecture deep dives — for career history see **[Full CV](./Technical-Strategy.md)** above.
+Architecture narratives by specialty — for career history see **[Full CV](./Technical-Strategy.md)** above.
 
 | Document | Audience | Contents |
 | :-- | :-- | :-- |
-| [**Projects**](./Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
-| [**Recommendations**](./Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
-| [**Local AI and MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
-| [**Infrastructure and Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
+| [**Architecture Case Studies**](./Projects.md) | Recruiters, technical peers | Business problem → outcome project catalog with diagrams |
+| [**Healthcare Architecture**](./Healthcare/README.md) | Healthcare IT, life sciences | Connected care, private networks, device connectivity, resilience |
+| [**Identity & Access**](./Identity/README.md) | Security architects, IAM engineers | Enterprise federation, zero-trust segmentation, credential governance |
+| [**Local AI and MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Why MCP matters, enterprise use cases, security, local vs cloud |
+| [**Infrastructure and Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, VLAN isolation, NVR/AI stack |
+| [**Recommendations**](./Recommendations/README.md) | Recruiters, hiring managers | Nine recommendations with excerpts from directors and client partners |
 
 ## Philosophy
 
 > True technical leadership goes beyond choosing a modern stack. It requires predictable execution paths, operational sustainability, and architecture that directly moves the needle on business outcomes — whether scaling cloud integrations or optimizing local bare-metal clusters.
 
 ## Recommendations
+
+Nine recommendations from **directors, client partners, practice leaders, and engineering leads** at Verizon, Zoomin.TV, Market America, and Green River Media. [Full excerpts →](./Recommendations/README.md)
 
 | Recommender | Role | Highlight |
 | :-- | :-- | :-- |

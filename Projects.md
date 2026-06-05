@@ -1,8 +1,18 @@
-# Projects
+# Architecture Case Studies
 
 [← Back to Main Portfolio](./index.md)
 
-Project highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/), expanded with portfolio context and repository links where available.
+LinkedIn project highlights expanded into architecture case studies. Each narrative follows the same structure used in enterprise architecture reviews:
+
+| Lens | What it answers |
+| :-- | :-- |
+| **Business problem** | Why the initiative existed and what was at stake |
+| **Constraints** | Scale, regulation, legacy debt, uptime, or organizational boundaries |
+| **Architecture** | Integration patterns, data flows, and platform decisions |
+| **Tradeoffs** | What was sacrificed or deferred — and why |
+| **Outcome** | Measurable business or operational impact |
+
+Full catalog from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/).
 
 ---
 

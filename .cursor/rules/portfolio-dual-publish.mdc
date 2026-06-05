@@ -1,0 +1,35 @@
+---
+description: Keep index.md and README.md in sync for dual GitHub Pages / repo publishing
+alwaysApply: true
+---
+
+# Portfolio dual-publish sync
+
+This repo publishes the homepage two ways:
+
+| File | Audience | Links |
+|------|----------|-------|
+| `index.md` | GitHub Pages (Jekyll) | Relative `.md` paths → built as `.html` |
+| `README.md` | GitHub repo profile view | Absolute `github.com/.../blob/main/...` URLs |
+
+## Rules
+
+1. **Edit `index.md` only** for homepage content (hero, At a Glance, gallery, case studies, deep dives, recommendations table).
+2. **Never edit `README.md` by hand** — it is generated from `index.md`.
+3. **After any change to `index.md`**, run sync before finishing the task:
+
+   ```powershell
+   ./scripts/sync-readme.ps1
+   ```
+
+4. If homepage content was changed indirectly, sync anyway to verify `README.md` matches.
+
+## Other pages
+
+- Subpages (`Projects.md`, `Technical-Strategy.md`, `Healthcare/`, etc.) use `./index.md` for “back to portfolio” on Pages.
+- Do not point subpages at `README.md`.
+
+## Jekyll
+
+- `README.md` is excluded in `_config.yml` — only `index.md` builds the Pages homepage.
+- `portfolio.code-workspace` stays local; excluded from Pages build (do not delete).

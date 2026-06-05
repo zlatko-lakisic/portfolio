@@ -163,7 +163,7 @@ Animal Welfare · Civil Rights and Social Action · Education · Health · Human
 
 | Skill | Context |
 | :-- | :-- |
-| Artificial General Intelligence (AGI) | [Agentic Orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) |
+| Agentic workflow design & LLM orchestration | [Agentic Orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) |
 | Recursive Task Synthesis | Agentic Orchestration |
 | Cognitive Architecture | Agentic Orchestration |
 | Automated Reasoning | Agentic Orchestration |

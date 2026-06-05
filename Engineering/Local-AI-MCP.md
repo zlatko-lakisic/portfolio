@@ -2,6 +2,72 @@
 
 [← Back to Main Portfolio](../index.md)
 
+## Why MCP Matters
+
+Model Context Protocol (MCP) standardizes how AI agents discover and invoke tools — the same integration problem enterprise architects have solved with API gateways and ESBs, now applied to agentic workflows. Without a protocol boundary, every agent hard-codes tool integrations; with MCP, tools become pluggable services with explicit capability contracts.
+
+For organizations evaluating AI automation, MCP provides:
+
+- **Composability** — add Home Assistant, documentation search, or internal APIs without rewriting agent logic
+- **Governance surface** — credential-scoped catalogs mirror enterprise service registries
+- **Vendor portability** — swap Ollama for cloud models while keeping the same tool layer
+- **Auditability** — structured request/response flows instead of opaque prompt stuffing
+
+---
+
+## Enterprise Use Cases
+
+| Use case | MCP role | Enterprise parallel |
+| :-- | :-- | :-- |
+| **Operational automation** | Agents invoke Home Assistant, MQTT, or internal REST APIs via MCP servers | Integration bus connecting line-of-business systems |
+| **Knowledge retrieval** | Docs/search MCP servers feed grounded context into planners | Enterprise search and RAG pipelines |
+| **Multi-step workflows** | CrewAI crews chain tool calls through a catalog | BPM/orchestration with human approval gates |
+| **Vertical packs** | Domain overlays under `examples/verticals/` | Industry solution accelerators |
+| **Discovery workshops** | YAML + env-var catalogs validate workflows before custom code | HLSD and POC scoping |
+
+---
+
+## Security Considerations
+
+MCP introduces the same trust boundaries as any integration layer:
+
+- **Credential scoping** — backend and tool catalogs filter by environment credentials; agents only see what operators explicitly enable
+- **Network isolation** — MCP servers run in segmented subnets (see [Infrastructure VLAN design](./Infrastructure.md#network-segregation-strategy)); tool reachability is deliberate, not ambient
+- **Local execution sandbox** — inference and tool execution stay on owned hardware for privacy-sensitive workloads
+- **Least privilege** — each MCP server exposes a narrow capability set rather than blanket system access
+- **Human-in-the-loop** — high-impact actions remain gated by operator approval in production-shaped workflows
+
+Enterprise deployments should treat MCP servers like microservices: authenticated endpoints, segmented networks, and logged invocation trails.
+
+---
+
+## Local vs Cloud MCP
+
+| Dimension | Local MCP (this portfolio) | Cloud-hosted MCP |
+| :-- | :-- | :-- |
+| **Data sovereignty** | Telemetry, video, and automation state stay on owned hardware | Data crosses provider boundaries |
+| **Latency** | Sub-second tool round-trips on LAN | Depends on WAN and provider region |
+| **Cost model** | Recycle-first bare-metal; no per-token egress surprises | Usage-based billing at scale |
+| **Model choice** | Ollama, vLLM, JetStream on local GPU/TPU | Managed APIs (OpenAI, Anthropic, etc.) |
+| **Best fit** | Edge AI, home-lab validation, regulated or air-gapped patterns | Burst capacity, frontier models, global teams |
+
+The [agentic-orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) stack supports **both** — local backends by default, commercial APIs when credentials and latency profiles justify them.
+
+---
+
+## Lessons Learned
+
+| Lesson | Detail |
+| :-- | :-- |
+| **Catalog before code** | YAML workflows and env-var backend catalogs reduce POC friction more than bespoke planner glue |
+| **Separate planning from execution** | LiteLLM planner + CrewAI crew mirrors enterprise separation of orchestration and worker services |
+| **VRAM-aware routing** | Smaller models for planning steps; reserve large models for synthesis — directly reduces hardware spend |
+| **MCP is the integration hub** | Resist one-off tool imports; every new capability should register as an MCP server |
+| **Pressure-test locally** | Patterns validated on Proxmox clusters translate to client recommendations with real utilization data |
+| **Feedback loops matter** | Session history and learning loops in the orchestrator mirror enterprise voice-of-customer pipelines |
+
+---
+
 ## Overview
 
 ![MCP Architecture Blueprint — client, server, and data source request flow](../assets/mcp-architecture.png)
