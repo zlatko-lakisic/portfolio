@@ -147,13 +147,54 @@ Logistics and transport · aviation · financial services · sports and entertai
 
 Animal Welfare · Civil Rights and Social Action · Education · Health · Human Rights · Science and Technology
 
-## Technical Skills
+## Skills
+
+### Enterprise architecture and platform
+
+| Skill | Context |
+| :-- | :-- |
+| Enterprise Architecture and Design Patterns | [OmegaCMS](https://github.com/zlatko-lakisic/omegacms) |
+| Cloud-Agnostic Infrastructure (Multi-Cloud) | OmegaCMS — AWS Lambda, Azure Functions, Google Cloud |
+| Serverless Computing and Event-Driven Architecture | OmegaCMS |
+| Data Federation and Orchestration | OmegaCMS |
+| Outcome-First Engineering (Strategic Execution) | OmegaCMS |
+
+### Agentic AI and orchestration
+
+| Skill | Context |
+| :-- | :-- |
+| Artificial General Intelligence (AGI) | [Agentic Orchestration](https://github.com/zlatko-lakisic/agentic-orchestration) |
+| Recursive Task Synthesis | Agentic Orchestration |
+| Cognitive Architecture | Agentic Orchestration |
+| Automated Reasoning | Agentic Orchestration |
+| Quality Assurance (AI-Driven) | Agentic Orchestration |
+| Model Context Protocol (MCP) | Agentic Orchestration |
+| System Orchestration | Agentic Orchestration |
+| Logic and Factuality Verification | Agentic Orchestration |
+
+### Leadership, strategy, and client engagement
+
+Innovation Strategy · Digital Transformation · Strategic Partnerships · Enterprise Architecture · Change Management · Business Case Development · Executive Presentations · Technical Documentation · SOW Development · RFP/RFI Response · Demos and POCs · Architectural Design · Client Discovery · Vendor and Partner Management · P&L Awareness · Client and Stakeholder Engagement · Cross-functional Collaboration · Talent Development · Technology Strategy · Mentoring · Team Leadership · Management · Project Management · Leadership · Strategic Planning · Customer Service · Business Strategy · Business Development · Sales · New Business Development · Microsoft Office
+
+### Development stack
+
+**Web client-side** — HTML, XML, XSLT, XSD, XHTML, CSS, JavaScript, AJAX, jQuery, AngularJS, Angular Material, Bootstrap, JSON
+
+**Web server-side** — ASP.NET Web Forms and MVC (C#/VB), ASP.NET Web API, Classic ASP, WCF, PHP, ColdFusion, Java (JSP), Node.js
+
+**Desktop** — Windows Forms, Windows Services, WPF, Java (Swing and SWT)
+
+**Databases** — Microsoft SQL Server (T-SQL), MySQL
+
+**Platforms and tools** — C# (LinkedIn Skill Assessment) · Visual Studio · Eclipse · IIS · Windows Server · Linux (Debian) · Apache · Content Management Systems (CMS) · Software Development · Web Applications · Web Development
+
+### Core competencies summary
 
 | Area | Competencies |
 | :-- | :-- |
 | **Solutions Architecture** | Enterprise enablement, technical discovery, implementation playbooks, API integration design (REST, webhooks) |
-| **Security & Compliance** | SSO (SAML/OAuth), identity management, data governance, SOC 2 concepts |
-| **Cloud & Data** | Cloud-native design (AWS/Azure), distributed systems, data pipelines, motion/telematics analytics, system investigation and debugging |
+| **Security and Compliance** | SSO (SAML/OAuth), identity management, data governance, SOC 2 concepts |
+| **Cloud and Data** | Cloud-native design (AWS/Azure), distributed systems, data pipelines, motion/telematics analytics, system investigation and debugging |
 | **Leadership** | Stakeholder management, product roadmap influence, cross-functional coordination, C-suite engagement |
 
 ## Recommendations
