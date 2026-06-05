@@ -94,7 +94,7 @@ Logistics and transport · aviation · financial services · sports and entertai
 
 **Selected projects**
 
-*Walmart inventory automation* — Lead architect and delivery director for enterprise inventory automation across Walmart and Sam's Club. Integrated ~50 disparate systems spanning modern APIs and legacy warehouse protocols; designed real-time data orchestration across 5,500 locations. Led a team of 15 through discovery, HLSD, and deployment on the Sequence platform (.NET, SQL Server).
+*Walmart inventory automation* — Lead architect and delivery director for enterprise inventory automation across Walmart and Sam's Club. Unified 50+ disparate systems spanning modern APIs and legacy warehouse protocols into a dual-mode integration bridge; designed real-time data orchestration across 5,500 locations and a three-stage HITL ML pipeline for document matching. Led a team of 15 through discovery, HLSD, and deployment on the Sequence platform (.NET, SQL Server). [Full project brief →](./Projects.md#walmart-inventory-automation)
 
 ### Senior Distributed Systems Development Specialist — The Clearing House, Winston-Salem, NC
 *04/2018 – 11/2018*

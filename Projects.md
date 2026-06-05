@@ -27,6 +27,64 @@ Co-Founder and Solutions Architect at [Omega Content Management Services](https:
 
 ---
 
+## Walmart Inventory Automation
+
+**Genpact · Walmart & Sam's Club · 11/2018 – 11/2019**
+
+![Walmart Inventory Automation — enterprise integration mesh unifying 50+ legacy and modern systems across global supply chain operations](./assets/walmart-project.png)
+
+Architectural strategy, re-engineering, and automation of a highly fragmented global supply chain and inventory accounting ecosystem. At enterprise scale, the initiative unified 50+ disparate legacy and modern systems into a resilient dual-mode integration bridge — replacing a brittle manual workflow built on multi-layered spreadsheet networks with a right-first-time data pipeline that secured financial fidelity for metrics directly tied to corporate P&L.
+
+### The challenge
+
+The baseline infrastructure was extreme technical debt in a fully siloed operating model:
+
+- **Systemic scale** — 50+ disconnected platforms, from SAP and Salesforce to mainframe green-screen terminals, independent file shares, and legacy email data streams.
+- **Geospatial gaps** — No unified mapping; logistics teams relied on static paper atlases instead of centralized GIS.
+- **Spreadsheet dependency** — Frontline staff tracked inventory through a fragile Excel matrix fed by 50 individual data-dump sheets into an unstable master VLOOKUP system.
+- **P&L exposure** — Inventory metrics feed corporate profit-and-loss statements; teams reran identical calculation cycles three to four times per period to manually verify integrity.
+
+### Architectural highlights
+
+#### 1. Dual-mode integration bridge
+
+Orchestration layer supporting synchronous and asynchronous processing so low-performance legacy systems could not drag down modern cloud applications:
+
+- **Synchronous streams** — Low-latency API transactions for interactive endpoints (SAP, Salesforce).
+- **Asynchronous pipelines** — Stateful, queue-driven workers for bulk FTP drops, file-share exchanges, and structured email payloads without blocking upstream workflows.
+- **Legacy mainframe adapters** — Custom programmatic wrappers and terminal emulators to extract and integrate siloed green-screen data layers.
+
+#### 2. Operational discovery and workflow optimization
+
+Before automation code shipped, ground-level technical discovery mapped undocumented manual processes and systematic failure points. Edge-case exceptions were diagnosed and proactive error-reconciliation algorithms were built into the software layer — optimizing the operational flow before automation took over.
+
+#### 3. Cognitive document-matching mesh (3-stage HITL ML pipeline)
+
+Physical Bills of Lading from truck drivers often arrived months — or up to a year — before corresponding vendor invoices. A Human-in-the-Loop machine learning system reconciled that temporal friction:
+
+- **Stage 1 — Imitation learning** — Models ingested historical processing patterns to capture implicit matching heuristics used by human operators.
+- **Stage 2 — Assisted inference** — Interactive suggestion layer with live operator feedback loops to continuously tune model confidence scores.
+- **Stage 3 — Autonomous execution** — Full autonomy with human operators out of the active loop except for randomized QA and statistical sanity checks.
+
+### Business outcomes
+
+- **Spreadsheet eradication** — Eliminated the manual 50-tab Excel ecosystem and its performance lags and corruption vectors.
+- **Right-first-time fidelity** — Automated validation delivered reliable metrics on the first run, removing 3×–4× operational rework cycles.
+- **Supply chain visibility** — Transformed batch-oriented tracking into a continuous, event-driven data stream across 5,500 retail locations.
+- **P&L integrity** — Executive leadership gained high-fidelity, near-real-time inventory assets tied to financial reporting.
+
+### Tech stack
+
+Event-driven architecture · synchronous/asynchronous microservices · enterprise application integration (EAI) · SAP · Salesforce API · custom mainframe terminal emulators · FTP/SFTP · applied ML · HITL pipelines · operator feedback loops · .NET · SQL Server · Sequence platform
+
+### Role
+
+Principal Consultant — Lead architect and delivery director. Led a team of 15 through discovery, HLSD, and deployment. Directed backend discovery architecture for the inventory automation initiative across Walmart and Sam's Club.
+
+**Related experience** → [Technical Strategy & Career — Genpact](./Technical-Strategy.md#principal-consultant--genpact-new-york-ny)
+
+---
+
 ## ALSTOM — Global Enterprise Web Platform
 
 **Green River Media** · Ektron CMS · ASP.NET WebForms
