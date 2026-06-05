@@ -1,6 +1,6 @@
-# Technical Strategy & Career
+# Technical Strategy and Career
 
-[← Back to Main Portfolio](./README.md)
+**Full CV** · [← Main Portfolio](./README.md)
 
 ## Engineering Philosophy
 

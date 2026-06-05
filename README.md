@@ -8,10 +8,17 @@ A highly strategic technology leader who builds resilient, outcome-first archite
 
 15+ years as a trusted advisor to C-suite stakeholders — from Verizon enterprise integration and healthcare private networks to national payment infrastructure and global retail automation.
 
+<p align="center">
+  <a href="./Technical-Strategy.md"><strong>Full CV — Experience, Education, and Technical Strategy →</strong></a>
+</p>
+
+Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC · 15+ years · [Recommendations](./Recommendations/README.md)
+
 ## Connect
 
 | | |
 |---|---|
+| **CV / Resume** | [**Technical Strategy and Career**](./Technical-Strategy.md) — full experience, education, skills, philosophy |
 | **Email** | [zlatko.lakisic@gmail.com](mailto:zlatko.lakisic@gmail.com) |
 | **Phone** | 336-682-9871 |
 | **LinkedIn** | [linkedin.com/in/zlatko-lakisic](https://www.linkedin.com/in/zlatko-lakisic/) |
@@ -69,11 +76,12 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 
 ## Deep Dives
 
+Engineering architecture deep dives — for career history see **[Full CV](./Technical-Strategy.md)** above.
+
 | Document | Audience | Contents |
 | :-- | :-- | :-- |
 | [**Projects**](./Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
 | [**Recommendations**](./Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
-| [**Technical Strategy and Career**](./Technical-Strategy.md) | CTOs, VPs, hiring managers | Philosophy, full career narrative, education |
 | [**Local AI and MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
 | [**Infrastructure and Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
 
