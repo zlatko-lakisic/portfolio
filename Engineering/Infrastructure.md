@@ -4,7 +4,7 @@
 
 ## Overview
 
-Hands-on infrastructure work that demonstrates bare-metal and edge realities alongside cloud-scale architecture experience. The home lab is a recycle-first, production-faithful environment: segmented networking, localized AI inference, NVR pipelines, and automation logic without standing cloud cost.
+Hands-on infrastructure work that demonstrates bare-metal and edge realities alongside cloud-scale architecture experience. The home lab is a recycle-first, production-faithful environment built on a **VLAN isolation strategy**, **maximizing hardware density** on repurposed nodes, and localized AI inference without standing cloud cost.
 
 **Primary repository:** [My-Futuristic-Home](https://github.com/zlatko-lakisic/My-Futuristic-Home)
 
@@ -18,11 +18,11 @@ Surveillance, automation state, and AI inference run on owned hardware. External
 
 ### Network segregation
 
-High-bandwidth server and NVR traffic is isolated from household LAN and IoT WLAN segments. Perimeter, house, and IoT subnets each carry distinct trust boundaries.
+**VLAN isolation strategy** — high-bandwidth server and NVR traffic is isolated from household LAN and IoT WLAN segments. Perimeter, house, and IoT subnets each carry distinct trust boundaries.
 
 ### Recycle-first compute
 
-Repurposed nodes (Beelink EQ14, Pine64 MQTT broker, legacy i7 automation host) form a cohesive cluster rather than disposable cloud sandboxes.
+**Maximizing hardware density** — repurposed nodes (Beelink EQ14, Pine64 MQTT broker, legacy i7 automation host) form a cohesive cluster rather than disposable cloud sandboxes.
 
 ---
 
@@ -66,10 +66,10 @@ flowchart TB
 
 ## Physical & Compute Environment
 
-All core equipment sits in a **9U wall-mount rack** with active cooling and cable management.
+**Maximizing hardware density** in a **9U wall-mount rack** with active cooling and cable management — every U assigned to routing, compute, storage, or edge services.
 
 | Layer | Components | Role |
-|---|---|---|
+| :-- | :-- | :-- |
 | **Routing** | MikroTik hAP ac, CSS326 (10G SFP+) | Gateway, perimeter switching, backbone |
 | **Compute** | Beelink EQ14, Proxmox cluster, i7-7700T HA host | VMs, LXCs, automation engine |
 | **Edge services** | Traefik, UniFi controller, mDNS repeater | Ingress, WiFi management, cross-subnet discovery |
@@ -83,7 +83,7 @@ Detailed rack elevation, hardware inventory, and Proxmox VM/LXC strategy → [My
 ## AI & Surveillance Stack
 
 | Service | Function | Notes |
-|---|---|---|
+| :-- | :-- | :-- |
 | **Frigate NVR** | Object detection, stream management | Primary AI detection; TensorRT on NVIDIA RTX A4000 |
 | **CodeProject.AI** | Dedicated inference (object/face/ALPR) | Complements Frigate; see [Local AI deep-dive](./Local-AI-MCP.md) |
 | **Home Assistant** | Automation orchestration | Core logic engine across subnets |
@@ -95,12 +95,12 @@ Camera inventory, stream paths, and NVR configuration → [My-Futuristic-Home/in
 
 ## Network Segregation Strategy
 
-Enterprise networks fail when everything shares one flat broadcast domain. The home lab applies the same **secure-by-default** principle: trust zones are explicit, ingress is controlled, and compromised IoT devices cannot reach hypervisors, storage, or inference workloads.
+**VLAN isolation strategy** applied at enterprise scale: enterprise networks fail when everything shares one flat broadcast domain. The home lab uses the same **secure-by-default** principle — trust zones are explicit, ingress is controlled, and compromised IoT devices cannot reach hypervisors, storage, or inference workloads.
 
 ### VLAN design philosophy
 
 | Zone | CIDR | Trust level | What lives here |
-|---|---|---|---|
+| :-- | :-- | :-- | :-- |
 | **Perimeter** | 10.0.10.x | Highest | Proxmox hypervisors, NAS, Frigate NVR, Home Assistant server, AI inference hosts |
 | **House LAN** | 192.168.89.x | Medium | Wired endpoints, UniFi controller, Mosquitto MQTT broker, management interfaces |
 | **House WLAN** | 192.168.90.x | Medium-low | Personal devices, media clients, general WiFi |
@@ -140,7 +140,7 @@ The goal is **predictive infrastructure behavior** — the same operational mind
 
 ## Kubernetes & Sandbox Clusters
 
-Custom Kubernetes clusters on bare-metal hypervisors provide a zero-standing-cost environment to test containerized tools, agentic workflows, and SDK integrations before recommending patterns to enterprise clients.
+**Bare-metal hypervisors** host custom Kubernetes clusters that **maximize hardware density** — a zero-standing-cost environment to test containerized tools, agentic workflows, and SDK integrations before recommending patterns to enterprise clients.
 
 This mirrors the recycle-first philosophy: legacy hardware becomes a high-availability sandbox instead of e-waste.
 
@@ -149,7 +149,7 @@ This mirrors the recycle-first philosophy: legacy hardware becomes a high-availa
 ## Key Outcomes
 
 | Outcome | How it demonstrates capability |
-|---|---|
+| :-- | :-- |
 | **99.999% design thinking** | Multi-tier resilience patterns practiced locally before prescribing them to healthcare clients |
 | **Edge AI operations** | Frigate + CodeProject.AI + Ollama form an integrated inference pipeline |
 | **Integration discipline** | MCP and MQTT boundaries match enterprise API-gateway thinking |

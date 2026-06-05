@@ -24,10 +24,23 @@ Primary repositories:
 How context moves from data sources through MCP into local execution — the pattern this repository implements end to end.
 
 ```mermaid
-graph TD
-    A[Context / Data Sources] -->|Model Context Protocol| B(Agentic Orchestration Layer)
-    B -->|Secure Local Payload| C[Ollama Inference Engine]
-    C -->|Multi-Modal LLMs| D[Localized Execution Sandbox]
+graph TB
+    subgraph DataLayer["Data Layer"]
+        A[Context Data Sources]
+    end
+
+    subgraph OrchestrationEngine["Orchestration Engine"]
+        B(Agentic Orchestration Layer)
+        C[Ollama Inference Engine]
+    end
+
+    subgraph SecurityIsolation["Security Isolation"]
+        D[Localized Execution Sandbox]
+    end
+
+    A -->|Model Context Protocol| B
+    B -->|Secure Local Payload| C
+    C -->|Multi-Modal LLMs| D
 ```
 
 ### Orchestration blueprint
@@ -89,7 +102,7 @@ The orchestration layer separates **planning** (which model and which steps) fro
 ### Tech stack
 
 | Layer | Components |
-|---|---|
+| :-- | :-- |
 | **Orchestration** | CrewAI, YAML workflow definitions, dynamic planning modes |
 | **Model routing** | Ollama, OpenAI-compatible APIs, Anthropic Claude, Hugging Face, vLLM, JetStream |
 | **Tooling** | Model Context Protocol (MCP) catalog, Home Assistant, docs/search servers |
@@ -104,7 +117,7 @@ The orchestration layer separates **planning** (which model and which steps) fro
 ### Design lessons
 
 | Challenge | Approach |
-|---|---|
+| :-- | :-- |
 | **Latency on local hardware** | Per-task backend selection with VRAM heuristics; prefer smaller models for planning steps |
 | **Context window limits** | Session management and knowledge-base retrieval instead of stuffing full history into prompts |
 | **Tool sprawl** | MCP catalog as integration hub — same role as an API gateway in distributed systems |
@@ -135,7 +148,7 @@ Ollama · CodeProject.AI module pipeline · Moondream (default vision model) · 
 ## Relationship to Enterprise Work
 
 | Enterprise pattern | Local AI equivalent |
-|---|---|
+| :-- | :-- |
 | API gateway / integration bus | MCP catalog and model router |
 | Credential-scoped service catalog | Backend catalog filtered by env credentials |
 | HLSD and discovery artifacts | YAML workflows and vertical overlays |

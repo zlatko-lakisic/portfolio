@@ -16,7 +16,7 @@ High-performing delivery depends on architectural north stars, quality baselines
 
 Operational waste is often a design choice, not a budget constraint. Repurposed hardware, localized inference, and sandbox clusters provide production-faithful test beds without standing cloud cost — the same mindset that drives efficient enterprise platform adoption.
 
-The home lab is not a hobby layer on top of enterprise work; it is where those principles get pressure-tested. Maximizing bare-metal efficiency and container density on repurposed nodes directly parallels how organizations should right-size cloud estates: fewer idle VMs, higher utilization per host, and workloads placed where latency and data-sovereignty requirements actually justify the cost. Running Ollama inference, Frigate NVR, and agent sandboxes locally before recommending architecture to clients means proposals are grounded in real utilization curves — not vendor sizing calculators.
+The home lab is not a hobby layer on top of enterprise work; it is where those principles get pressure-tested. **Maximizing bare-metal efficiency** and **container density** on repurposed nodes directly parallels how organizations should right-size cloud estates: fewer idle VMs, higher utilization per host, and workloads placed where latency and data-sovereignty requirements actually justify the cost. Running Ollama inference, Frigate NVR, and agent sandboxes locally before recommending architecture to clients means proposals are grounded in real utilization curves — not vendor sizing calculators.
 
 That recycle-first discipline also mitigates vendor lock-in. When you can reproduce production-shaped failures on bare-metal Kubernetes clusters built from hardware that would otherwise be retired, you reduce dependence on a single hyperscaler's managed primitives for every experiment. The enterprise translation is straightforward: higher container density and disciplined workload placement slash cloud spend; standardized integration boundaries (MCP, REST, MQTT) keep teams portable across providers; and governance applied early — segmented networks, credential-scoped catalogs, documented runbooks — prevents the technical debt that inflates corporate infrastructure overhead over time.
 
@@ -123,10 +123,10 @@ Logistics and transport · aviation · financial services · sports and entertai
 ## Technical Skills
 
 | Area | Competencies |
-|---|---|
+| :-- | :-- |
 | **Solutions Architecture** | Enterprise enablement, technical discovery, implementation playbooks, API integration design (REST, webhooks) |
 | **Security & Compliance** | SSO (SAML/OAuth), identity management, data governance, SOC 2 concepts |
-| **Cloud & Data** | Cloud-native design (AWS/Azure), distributed systems, data pipelines, motion/telematics analytics, system investigation & debugging |
+| **Cloud & Data** | Cloud-native design (AWS/Azure), distributed systems, data pipelines, motion/telematics analytics, system investigation and debugging |
 | **Leadership** | Stakeholder management, product roadmap influence, cross-functional coordination, C-suite engagement |
 
 ## Recommendations
@@ -134,15 +134,15 @@ Logistics and transport · aviation · financial services · sports and entertai
 Nine professional recommendations — each with full text in its own page.
 
 | Recommender | Role |
-|---|---|
-| [Jon Woodland](./Recommendations/jon-woodland.md) | Director, Technology Development & Integration, Verizon |
+| :-- | :-- |
+| [Jon Woodland](./Recommendations/jon-woodland.md) | Director, Technology Development and Integration, Verizon |
 | [Sam Aria](./Recommendations/sam-aria.md) | Sr. Client Partner, Verizon Business Group |
-| [Robin Goldsmith](./Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare & Life Sciences, Verizon Business |
+| [Robin Goldsmith](./Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare and Life Sciences, Verizon Business |
 | [Gert-Jan Vrolijk](./Recommendations/gert-jan-vrolijk.md) | Director IT, Zoomin.TV |
 | [Maarten Kruit](./Recommendations/maarten-kruit.md) | IT Coordinator, Zoomin.TV |
 | [Matt Happel](./Recommendations/matt-happel.md) | Senior Lead Full Stack Developer, Market America |
 | [Norman Graves](./Recommendations/norman-graves.md) | Business Development Director, Green River Media |
-| [Ivan Varbanov](./Recommendations/ivan-varbanov.md) | SRE · DevOps · Cloud Infrastructure |
+| [Ivan Varbanov](./Recommendations/ivan-varbanov.md) | SRE, DevOps, Cloud Infrastructure |
 | [Haris Šečić](./Recommendations/haris-secic.md) | Software Developer |
 
 [View all recommendations →](./Recommendations/README.md)

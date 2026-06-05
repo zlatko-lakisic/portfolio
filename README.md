@@ -59,23 +59,23 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 
 ## Technical Ecosystem
 
-| Domain | Technologies & Frameworks |
-|---|---|
-| **Architecture & Integration** | REST APIs, webhooks, SSO (SAML/OAuth), enterprise discovery, HLSD, .NET |
-| **Cloud & Data** | AWS, Azure, distributed systems, data pipelines, motion/telematics analytics |
-| **AI & Automation** | Ollama, MCP, CrewAI, LiteLLM, Home Assistant, CodeProject.AI, Frigate |
+| Domain | Technologies and Frameworks |
+| :-- | :-- |
+| **Architecture and Integration** | REST APIs, webhooks, SSO (SAML/OAuth), enterprise discovery, HLSD, .NET |
+| **Cloud and Data** | AWS, Azure, distributed systems, data pipelines, motion/telematics analytics |
+| **AI and Automation** | Ollama, MCP, CrewAI, LiteLLM, Home Assistant, CodeProject.AI, Frigate |
 | **Infrastructure** | Kubernetes, Docker, Proxmox VE, MikroTik RouterOS, Traefik, UniFi |
 | **Methodologies** | Outcome-first delivery, technical governance, recycle-first engineering |
 
 ## Deep Dives
 
 | Document | Audience | Contents |
-|---|---|---|
+| :-- | :-- | :-- |
 | [**Projects**](./Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
 | [**Recommendations**](./Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
-| [**Technical Strategy & Career**](./Technical-Strategy.md) | CTOs, VPs, hiring managers | Philosophy, full career narrative, education |
-| [**Local AI & MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
-| [**Infrastructure & Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
+| [**Technical Strategy and Career**](./Technical-Strategy.md) | CTOs, VPs, hiring managers | Philosophy, full career narrative, education |
+| [**Local AI and MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
+| [**Infrastructure and Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
 
 ## Philosophy
 
@@ -84,15 +84,15 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 ## Recommendations
 
 | Recommender | Role | Highlight |
-|---|---|---|
-| [**Jon Woodland**](./Recommendations/jon-woodland.md) | Director, Technology Development & Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
+| :-- | :-- | :-- |
+| [**Jon Woodland**](./Recommendations/jon-woodland.md) | Director, Technology Development and Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
 | [**Sam Aria**](./Recommendations/sam-aria.md) | Sr. Client Partner, Verizon Business Group | Drove Baxter healthcare private network opportunity and broader connected-hospital wins |
-| [**Robin Goldsmith**](./Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare & Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
+| [**Robin Goldsmith**](./Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare and Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
 | [**Gert-Jan Vrolijk**](./Recommendations/gert-jan-vrolijk.md) | Director IT, Zoomin.TV | Great team leader; adapts quickly to the business side of projects |
 | [**Maarten Kruit**](./Recommendations/maarten-kruit.md) | IT Coordinator, Zoomin.TV | Clear communicator, software architect, takes on challenging work |
 | [**Matt Happel**](./Recommendations/matt-happel.md) | Senior Lead Full Stack Developer, Market America | Gets the job done; innovative with new concepts |
 | [**Norman Graves**](./Recommendations/norman-graves.md) | Business Development Director, Green River Media | Diligent, knowledgeable, capable software engineer |
-| [**Ivan Varbanov**](./Recommendations/ivan-varbanov.md) | SRE · DevOps · Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
+| [**Ivan Varbanov**](./Recommendations/ivan-varbanov.md) | SRE, DevOps, Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
 | [**Haris Šečić**](./Recommendations/haris-secic.md) | Software Developer | CEO who codes; realistic estimates plus architecture guidance |
 
 [All recommendations →](./Recommendations/README.md)
