@@ -1,6 +1,6 @@
 # Jon Woodland
 
-[← All Recommendations](./README.md) · [← Main Portfolio](../README.md)
+[← All Recommendations](./README.md) · [← Main Portfolio](../index.md)
 
 **Director, Technology Development & Integration**  
 Verizon Technology & Product Development Group

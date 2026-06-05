@@ -11,15 +11,11 @@ kramdown:
 
 plugins:
   - jekyll-relative-links
-  - jekyll-readme-index
   - jekyll-seo-tag
 
 relative_links:
   enabled: true
   collections: true
-
-readme_index:
-  remove_originals: false
 
 show_downloads: false
 
@@ -36,3 +32,4 @@ exclude:
   - Gemfile.lock
   - portfolio.code-workspace
   - README.profile.md
+  - README.md

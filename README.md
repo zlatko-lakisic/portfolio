@@ -6,15 +6,15 @@ A highly strategic technology leader who builds resilient, outcome-first archite
 
 15+ years as a trusted advisor to C-suite stakeholders — from Verizon enterprise integration and healthcare private networks to national payment infrastructure and global retail automation.
 
-[**Full CV — Experience, Education, and Technical Strategy →**](./Technical-Strategy.md)
+[**Full CV — Experience, Education, and Technical Strategy →**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Technical-Strategy.md)
 
-Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC · 15+ years · [Recommendations](./Recommendations/README.md)
+Verizon · Walmart · Zoomin.TV · The Clearing House · Omega IT LLC · 15+ years · [Recommendations](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/README.md)
 
 ## Connect
 
 | | |
 |---|---|
-| **CV / Resume** | [**Technical Strategy and Career**](./Technical-Strategy.md) — full experience, education, skills, philosophy |
+| **CV / Resume** | [**Technical Strategy and Career**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Technical-Strategy.md) — full experience, education, skills, philosophy |
 | **Email** | [zlatko.lakisic@gmail.com](mailto:zlatko.lakisic@gmail.com) |
 | **Phone** | 336-682-9871 |
 | **LinkedIn** | [linkedin.com/in/zlatko-lakisic](https://www.linkedin.com/in/zlatko-lakisic/) |
@@ -52,14 +52,14 @@ Live project cards — click through for architecture docs, commit history, and 
 
 ## Projects
 
-Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/) — [full project catalog](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html)
+Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/) — [full project catalog](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md)
 
 | Project | Period | Summary |
 |---|---|---|
-| [**Omega CMS**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html#omega-cms) | Jan 2017 – Present | Headless, multi-tenant ECM with localization engine and edge caching — [omegacms.io](https://omegacms.io), serverless-ready, database-agnostic ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
-| [**Walmart Inventory Automation**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
-| [**ALSTOM**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html#alstom) | Green River Media | Secure OT/IT integration layer for transit and industrial telemetry — event-driven messaging, network segregation, multi-continent deployment |
-| [**Video Promotions (ViewBooster)**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html#viewbooster) | Zoomin.TV | High-throughput YouTube ad-tech analytics — async ingestion mesh, stream aggregation, ML channel matching across 60,000+ channels |
+| [**Omega CMS**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#omega-cms) | Jan 2017 – Present | Headless, multi-tenant ECM with localization engine and edge caching — [omegacms.io](https://omegacms.io), serverless-ready, database-agnostic ([GitHub](https://github.com/zlatko-lakisic/omegacms)) |
+| [**Walmart Inventory Automation**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#walmart-inventory-automation) | Genpact · 2018 – 2019 | Unified 50+ legacy and modern systems; dual-mode integration bridge, HITL document-matching ML, and P&L-grade inventory automation across 5,500 locations |
+| [**ALSTOM**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#alstom) | Green River Media | Secure OT/IT integration layer for transit and industrial telemetry — event-driven messaging, network segregation, multi-continent deployment |
+| [**Video Promotions (ViewBooster)**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md#viewbooster) | Zoomin.TV | High-throughput YouTube ad-tech analytics — async ingestion mesh, stream aggregation, ML channel matching across 60,000+ channels |
 
 ## Technical Ecosystem
 
@@ -73,14 +73,14 @@ Highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/pr
 
 ## Deep Dives
 
-Engineering architecture deep dives — for career history see **[Full CV](./Technical-Strategy.md)** above.
+Engineering architecture deep dives — for career history see **[Full CV](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Technical-Strategy.md)** above.
 
 | Document | Audience | Contents |
 | :-- | :-- | :-- |
-| [**Projects**](https://zlatko-lakisic.github.io/zlatko-lakisic/Projects.html) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
-| [**Recommendations**](./Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
-| [**Local AI and MCP Architecture**](./Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
-| [**Infrastructure and Home Lab**](./Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
+| [**Projects**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Projects.md) | Recruiters, technical peers | LinkedIn project catalog with architecture detail and repo links |
+| [**Recommendations**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/README.md) | Recruiters, hiring managers | Nine professional recommendations with full text |
+| [**Local AI and MCP Architecture**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Engineering/Local-AI-MCP.md) | Principal engineers, architects | Agent orchestration, multi-modal LLM integration, system design |
+| [**Infrastructure and Home Lab**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Engineering/Infrastructure.md) | Platform engineers, SREs | Proxmox topology, networking, NVR/AI stack, automation |
 
 ## Philosophy
 
@@ -90,17 +90,17 @@ Engineering architecture deep dives — for career history see **[Full CV](./Tec
 
 | Recommender | Role | Highlight |
 | :-- | :-- | :-- |
-| [**Jon Woodland**](./Recommendations/jon-woodland.md) | Director, Technology Development and Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
-| [**Sam Aria**](./Recommendations/sam-aria.md) | Sr. Client Partner, Verizon Business Group | Drove Baxter healthcare private network opportunity and broader connected-hospital wins |
-| [**Robin Goldsmith**](./Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare and Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
-| [**Gert-Jan Vrolijk**](./Recommendations/gert-jan-vrolijk.md) | Director IT, Zoomin.TV | Great team leader; adapts quickly to the business side of projects |
-| [**Maarten Kruit**](./Recommendations/maarten-kruit.md) | IT Coordinator, Zoomin.TV | Clear communicator, software architect, takes on challenging work |
-| [**Matt Happel**](./Recommendations/matt-happel.md) | Senior Lead Full Stack Developer, Market America | Gets the job done; innovative with new concepts |
-| [**Norman Graves**](./Recommendations/norman-graves.md) | Business Development Director, Green River Media | Diligent, knowledgeable, capable software engineer |
-| [**Ivan Varbanov**](./Recommendations/ivan-varbanov.md) | SRE, DevOps, Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
-| [**Haris Šečić**](./Recommendations/haris-secic.md) | Software Developer | CEO who codes; realistic estimates plus architecture guidance |
+| [**Jon Woodland**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/jon-woodland.md) | Director, Technology Development and Integration, Verizon | Maps customer challenges to technology outcomes; effective with C-suite and engineers |
+| [**Sam Aria**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/sam-aria.md) | Sr. Client Partner, Verizon Business Group | Drove Baxter healthcare private network opportunity and broader connected-hospital wins |
+| [**Robin Goldsmith**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/robin-goldsmith.md) | Practice Leader, Healthcare and Life Sciences, Verizon Business | Go-to resource for critical projects; entrepreneurial when there is no playbook |
+| [**Gert-Jan Vrolijk**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/gert-jan-vrolijk.md) | Director IT, Zoomin.TV | Great team leader; adapts quickly to the business side of projects |
+| [**Maarten Kruit**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/maarten-kruit.md) | IT Coordinator, Zoomin.TV | Clear communicator, software architect, takes on challenging work |
+| [**Matt Happel**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/matt-happel.md) | Senior Lead Full Stack Developer, Market America | Gets the job done; innovative with new concepts |
+| [**Norman Graves**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/norman-graves.md) | Business Development Director, Green River Media | Diligent, knowledgeable, capable software engineer |
+| [**Ivan Varbanov**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/ivan-varbanov.md) | SRE, DevOps, Cloud Infrastructure | Wide expertise instrumental to complex project delivery |
+| [**Haris Šečić**](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/haris-secic.md) | Software Developer | CEO who codes; realistic estimates plus architecture guidance |
 
-[All recommendations →](./Recommendations/README.md)
+[All recommendations →](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/Recommendations/README.md)
 
 ## About This Repository
 
@@ -110,4 +110,4 @@ Executive dashboard for my professional portfolio. Detailed narratives live in l
 
 ## License
 
-Copyright © 2026 Zlatko Lakisic. All Rights Reserved. See [LICENSE](LICENSE). Linked project repositories remain under their own licenses.
+Copyright © 2026 Zlatko Lakisic. All Rights Reserved. See [LICENSE](https://github.com/zlatko-lakisic/zlatko-lakisic/blob/main/LICENSE). Linked project repositories remain under their own licenses.

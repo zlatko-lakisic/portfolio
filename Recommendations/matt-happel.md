@@ -1,6 +1,6 @@
 # Matt Happel
 
-[← All Recommendations](./README.md) · [← Main Portfolio](../README.md)
+[← All Recommendations](./README.md) · [← Main Portfolio](../index.md)
 
 **Senior Lead Full Stack Developer**  
 Market America, Inc.

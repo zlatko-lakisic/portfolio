@@ -1,6 +1,6 @@
 # Norman Graves
 
-[← All Recommendations](./README.md) · [← Main Portfolio](../README.md)
+[← All Recommendations](./README.md) · [← Main Portfolio](../index.md)
 
 **Business Development Director**  
 Green River Media

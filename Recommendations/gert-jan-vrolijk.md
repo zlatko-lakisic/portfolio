@@ -1,6 +1,6 @@
 # Gert-Jan Vrolijk
 
-[← All Recommendations](./README.md) · [← Main Portfolio](../README.md)
+[← All Recommendations](./README.md) · [← Main Portfolio](../index.md)
 
 **Director IT**  
 Zoomin.TV

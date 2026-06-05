@@ -1,6 +1,6 @@
 # Local AI & MCP Architecture
 
-[← Back to Main Portfolio](../README.md)
+[← Back to Main Portfolio](../index.md)
 
 ## Overview
 
@@ -158,4 +158,4 @@ The same architectural instincts — bounded integrations, catalog-driven adopti
 
 ---
 
-[← Back to Main Portfolio](../README.md) · [Infrastructure & Home Lab](./Infrastructure.md)
+[← Back to Main Portfolio](../index.md) · [Infrastructure & Home Lab](./Infrastructure.md)

@@ -1,6 +1,6 @@
 # Infrastructure & Home Lab
 
-[← Back to Main Portfolio](../README.md)
+[← Back to Main Portfolio](../index.md)
 
 ## Overview
 
@@ -157,4 +157,4 @@ This mirrors the recycle-first philosophy: legacy hardware becomes a high-availa
 
 ---
 
-[← Back to Main Portfolio](../README.md) · [Local AI & MCP Architecture](./Local-AI-MCP.md)
+[← Back to Main Portfolio](../index.md) · [Local AI & MCP Architecture](./Local-AI-MCP.md)

@@ -1,6 +1,6 @@
 # Robin Goldsmith
 
-[← All Recommendations](./README.md) · [← Main Portfolio](../README.md)
+[← All Recommendations](./README.md) · [← Main Portfolio](../index.md)
 
 **Practice Leader, Healthcare & Life Sciences**  
 Verizon Business

@@ -1,6 +1,6 @@
 # Projects
 
-[← Back to Main Portfolio](./README.md)
+[← Back to Main Portfolio](./index.md)
 
 Project highlights from [LinkedIn](https://www.linkedin.com/in/zlatko-lakisic/details/projects/), expanded with portfolio context and repository links where available.
 
@@ -210,4 +210,4 @@ These active GitHub repositories extend the project work above into local AI, ag
 
 ---
 
-[← Back to Main Portfolio](./README.md)
+[← Back to Main Portfolio](./index.md)

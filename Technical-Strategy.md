@@ -1,6 +1,6 @@
 # Technical Strategy and Career
 
-**Full CV** · [← Main Portfolio](./README.md)
+**Full CV** · [← Main Portfolio](./index.md)
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/255580783?s=400&u=861eba2740c4b7c3e7f5902ddd2fb75f016dfec2&v=4" alt="Zlatko Lakisic" width="200" />
@@ -217,4 +217,4 @@ Nine professional recommendations — each with full text in its own page.
 
 ---
 
-[← Back to Main Portfolio](./README.md)
+[← Back to Main Portfolio](./index.md)

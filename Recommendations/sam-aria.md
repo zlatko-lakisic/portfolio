@@ -1,6 +1,6 @@
 # Sam Aria
 
-[← All Recommendations](./README.md) · [← Main Portfolio](../README.md)
+[← All Recommendations](./README.md) · [← Main Portfolio](../index.md)
 
 **Sr. Client Partner**  
 Verizon Business Group

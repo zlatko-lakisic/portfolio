@@ -1,6 +1,6 @@
 # Recommendations
 
-[← Back to Main Portfolio](../README.md)
+[← Back to Main Portfolio](../index.md)
 
 | Recommender | Role |
 | :-- | :-- |
